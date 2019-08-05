@@ -1,182 +1,188 @@
 [
   {
-    "name": "Anaheim Ducks",
+    "name": "Arizona Coyotes",
     "id": 0,
     "conferenceId": 0,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/ANA-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/ari.png"
   },
   {
-    "name": "Atlanta Thrashers",
+    "name": "Anaheim Ducks",
     "id": 1,
     "conferenceId": 1,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/ATL-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/ana.png"
   },
   {
     "name": "Boston Bruins",
     "id": 2,
     "conferenceId": 0,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/BOS-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/bos.png"
   },
   {
     "name": "Buffalo Sabres",
     "id": 3,
     "conferenceId": 1,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/BUF-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/buf.png"
   },
   {
     "name": "Carolina Hurricanes",
     "id": 4,
     "conferenceId": 0,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/CAR-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/car.png"
   },
   {
     "name": "Columbus Blue Jackets",
     "id": 5,
     "conferenceId": 1,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/CBJ-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/cbj.png"
   },
   {
     "name": "Calgary Flames",
     "id": 6,
     "conferenceId": 0,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/CGY-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/cgy.png"
   },
   {
     "name": "Chicago Blackhawks",
     "id": 7,
     "conferenceId": 1,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/CHI-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/chi.png"
   },
   {
     "name": "Colorado Avalanche",
     "id": 8,
     "conferenceId": 0,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/COL-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/col.png"
   },
   {
     "name": "Dallas Stars",
     "id": 9,
     "conferenceId": 1,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/DAL-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/dal.png"
   },
   {
     "name": "Detroit Red Wings",
     "id": 10,
     "conferenceId": 0,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/DET-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/det.png"
   },
   {
     "name": "Edmonton Oilers",
     "id": 11,
     "conferenceId": 1,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/EDM-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/edm.png"
   },
   {
     "name": "Florida Panthers",
     "id": 12,
     "conferenceId": 0,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/FLA-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/fla.png"
   },
   {
     "name": "Los Angeles Kings",
     "id": 13,
     "conferenceId": 1,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/LAK-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/la.png"
   },
   {
     "name": "Minnesota Wild",
     "id": 14,
     "conferenceId": 0,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/MIN-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/min.png"
   },
   {
     "name": "Montreal Canadiens",
     "id": 15,
     "conferenceId": 1,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/MTL-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/mtl.png"
   },
   {
     "name": "Nashville Predators",
     "id": 16,
     "conferenceId": 0,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/NSH-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/nsh.png"
   },
   {
     "name": "New Jersey Devils",
     "id": 17,
     "conferenceId": 1,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/NJD-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/njd.png"
   },
   {
     "name": "New York Islanders",
     "id": 18,
     "conferenceId": 0,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/NYI-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/nyi.png"
   },
   {
     "name": "New York Rangers",
     "id": 19,
     "conferenceId": 1,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/NYR-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/nyr.png"
   },
   {
     "name": "Ottawa Senators",
     "id": 20,
     "conferenceId": 0,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/OTT-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/ott.png"
   },
   {
     "name": "Philadelphia Flyers",
     "id": 21,
     "conferenceId": 1,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/PHI-2008.png"
-  },
-  {
-    "name": "Phoenix Coyotes",
-    "id": 22,
-    "conferenceId": 0,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/PHX-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/phi.png"
   },
   {
     "name": "Pittsburgh Penguins",
-    "id": 23,
+    "id": 22,
     "conferenceId": 0,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/PIT-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/pit.png"
   },
   {
     "name": "San Jose Sharks",
-    "id": 24,
-    "conferenceId": 1,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/SJS-2008.png"
+    "id": 23,
+    "conferenceId": 0,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/sj.png"
   },
   {
     "name": "St. Louis Blues",
-    "id": 25,
-    "conferenceId": 0,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/STL-2008.png"
+    "id": 24,
+    "conferenceId": 1,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/stl.png"
   },
   {
     "name": "Tampa Bay Lightning",
-    "id": 26,
-    "conferenceId": 1,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/TBL-2008.png"
+    "id": 25,
+    "conferenceId": 0,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/tb.png"
   },
   {
     "name": "Toronto Maple Leafs",
+    "id": 26,
+    "conferenceId": 1,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/tor.png"
+  },
+  {
+    "name": "Vegas Golden Knights",
     "id": 27,
     "conferenceId": 0,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/TOR-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/vgs.png"
   },
   {
     "name": "Vancouver Canucks",
     "id": 28,
     "conferenceId": 1,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/VAN-2008.png"
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/van.png"
+  },
+  {
+    "name": "Winnipeg Jets",
+    "id": 29,
+    "conferenceId": 0,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/wpg.png"
   },
   {
     "name": "Washington Capitals",
-    "id": 29,
-    "conferenceId": 0,
-    "logoSrc": "https://d2p3bygnnzw9w3.cloudfront.net/req/201903191/tlogo/hr/WSH-2008.png"
+    "id": 30,
+    "conferenceId": 1,
+    "logoSrc": "https://a.espncdn.com/i/teamlogos/nhl/500/wsh.png"
   }
 ]

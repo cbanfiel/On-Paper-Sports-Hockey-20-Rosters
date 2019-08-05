@@ -1,5 +1,10 @@
 [
     {
+        "name": "NHL 2018-19",
+        "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Hockey-20-Rosters/master/NHL18-19.json",
+        "type": "Roster"
+    },
+    {
         "name": "NHL 2007-08",
         "link": "https://raw.githubusercontent.com/cbanfiel/On-Paper-Sports-Hockey-20-Rosters/master/NHL%2007-08.json",
         "type": "Roster"
