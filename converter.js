@@ -173,7 +173,7 @@ class Player {
         this.usage = 0;
         this.reboundUsage = 0;
         this.number = player.number;
-        this.height = "6\"2'";
+        this.height = player.height;
         this.years = player.years;
         this.age = player.age;
         this.salary = player.salary;
