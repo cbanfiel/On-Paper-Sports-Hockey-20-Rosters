@@ -304,22 +304,6 @@
     "height": "6\"3'"
   },
   {
-    "name": "Brendan Perlini",
-    "age": 23,
-    "number": 11,
-    "off": 63,
-    "def": 65,
-    "faceOff": 53,
-    "pass": 63,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3114744.png&w=200&h=145",
-    "position": 1,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 0,
-    "salary": 1425000,
-    "height": "6\"3'"
-  },
-  {
     "name": "Cam Ward",
     "age": 35,
     "number": 30,
@@ -608,22 +592,6 @@
     "height": "5\"9'"
   },
   {
-    "name": "Derick Brassard",
-    "age": 32,
-    "number": 25,
-    "off": 86,
-    "def": 87,
-    "faceOff": 71,
-    "pass": 68,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3506.png&w=200&h=145",
-    "position": 0,
-    "positioning": 63,
-    "reflexes": 63,
-    "years": 0,
-    "salary": 5000000,
-    "height": "6\"1'"
-  },
-  {
     "name": "Jamie McGinn",
     "age": 31,
     "number": 88,
@@ -864,22 +832,6 @@
     "height": "6\"2'"
   },
   {
-    "name": "Kevin Fiala",
-    "age": 23,
-    "number": 22,
-    "off": 85,
-    "def": 85,
-    "faceOff": 53,
-    "pass": 69,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3114743.png&w=200&h=145",
-    "position": 1,
-    "positioning": 62,
-    "reflexes": 62,
-    "years": 0,
-    "salary": 1425000,
-    "height": "5\"10'"
-  },
-  {
     "name": "Rocco Grimaldi",
     "age": 26,
     "number": 23,
@@ -910,38 +862,6 @@
     "years": 0,
     "salary": 650000,
     "height": "5\"10'"
-  },
-  {
-    "name": "Ben Lovejoy",
-    "age": 35,
-    "number": 12,
-    "off": 63,
-    "def": 68,
-    "faceOff": 53,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3993.png&w=200&h=145",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 0,
-    "salary": 2666667,
-    "height": "6\"1'"
-  },
-  {
-    "name": "Brian Boyle",
-    "age": 35,
-    "number": 11,
-    "off": 64,
-    "def": 66,
-    "faceOff": 71,
-    "pass": 60,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3648.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 0,
-    "salary": 2750000,
-    "height": "6\"6'"
   },
   {
     "name": "Drew Stafford",
@@ -1088,22 +1008,6 @@
     "height": "6\"3'"
   },
   {
-    "name": "Adam McQuaid",
-    "age": 33,
-    "number": 54,
-    "off": 62,
-    "def": 65,
-    "faceOff": 53,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3205.png&w=200&h=145",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 0,
-    "salary": 2750000,
-    "height": "6\"4'"
-  },
-  {
     "name": "Anthony DeAngelo",
     "age": 24,
     "number": 77,
@@ -1134,22 +1038,6 @@
     "years": 0,
     "salary": 1070000,
     "height": "6\"1'"
-  },
-  {
-    "name": "Cody McLeod",
-    "age": 35,
-    "number": 8,
-    "off": 60,
-    "def": 63,
-    "faceOff": 53,
-    "pass": 60,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3530.png&w=200&h=145",
-    "position": 1,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 0,
-    "salary": 750000,
-    "height": "6\"2'"
   },
   {
     "name": "Connor Brickley",
@@ -1198,22 +1086,6 @@
     "years": 2,
     "salary": 6650000,
     "height": "6\"1'"
-  },
-  {
-    "name": "Ryan Spooner",
-    "age": 28,
-    "number": 23,
-    "off": 62,
-    "def": 63,
-    "faceOff": 68,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5544.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 0,
-    "salary": 1000000,
-    "height": "5\"11'"
   },
   {
     "name": "Vinni Lettieri",
@@ -1360,22 +1232,6 @@
     "height": "6\"1'"
   },
   {
-    "name": "Mike McKenna",
-    "age": 36,
-    "number": 56,
-    "off": 62,
-    "def": 66,
-    "faceOff": 53,
-    "pass": 60,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "position": 4,
-    "positioning": 71,
-    "reflexes": 75,
-    "years": 0,
-    "salary": 1000000,
-    "height": "6\"2'"
-  },
-  {
     "name": "Travis Konecny",
     "age": 22,
     "number": 11,
@@ -1390,54 +1246,6 @@
     "years": 0,
     "salary": 1137500,
     "height": "5\"10'"
-  },
-  {
-    "name": "Derick Brassard",
-    "age": 32,
-    "number": 19,
-    "off": 86,
-    "def": 87,
-    "faceOff": 71,
-    "pass": 68,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3506.png&w=200&h=145",
-    "position": 0,
-    "positioning": 63,
-    "reflexes": 63,
-    "years": 0,
-    "salary": 5000000,
-    "height": "6\"1'"
-  },
-  {
-    "name": "Marcus Pettersson",
-    "age": 23,
-    "number": 28,
-    "off": 63,
-    "def": 70,
-    "faceOff": 53,
-    "pass": 64,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3114995.png&w=200&h=145",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 0,
-    "salary": 825000,
-    "height": "6\"3'"
-  },
-  {
-    "name": "Riley Sheahan",
-    "age": 28,
-    "number": 15,
-    "off": 64,
-    "def": 67,
-    "faceOff": 75,
-    "pass": 65,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5836.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 0,
-    "salary": 2100000,
-    "height": "6\"3'"
   },
   {
     "name": "Joe Thornton",
@@ -1456,22 +1264,6 @@
     "height": "6\"4'"
   },
   {
-    "name": "Micheal Haley",
-    "age": 33,
-    "number": 18,
-    "off": 62,
-    "def": 65,
-    "faceOff": 69,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5086.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 0,
-    "salary": 825000,
-    "height": "5\"11'"
-  },
-  {
     "name": "Rourke Chartier",
     "age": 23,
     "number": 60,
@@ -1486,22 +1278,6 @@
     "years": 0,
     "salary": 1000000,
     "height": "5\"11'"
-  },
-  {
-    "name": "Chad Johnson",
-    "age": 33,
-    "number": 31,
-    "off": 69,
-    "def": 72,
-    "faceOff": 53,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5178.png&w=200&h=145",
-    "position": 4,
-    "positioning": 78,
-    "reflexes": 80,
-    "years": 0,
-    "salary": 1750000,
-    "height": "6\"3'"
   },
   {
     "name": "Chris Thorburn",
@@ -1696,22 +1472,6 @@
     "height": "6\"1'"
   },
   {
-    "name": "Oscar Lindberg",
-    "age": 28,
-    "number": 24,
-    "off": 64,
-    "def": 66,
-    "faceOff": 70,
-    "pass": 62,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2590850.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 0,
-    "salary": 1700000,
-    "height": "6\"1'"
-  },
-  {
     "name": "Tomas Hyka",
     "age": 26,
     "number": 38,
@@ -1760,22 +1520,6 @@
     "height": "6\"1'"
   },
   {
-    "name": "Darren Archibald",
-    "age": 29,
-    "number": 49,
-    "off": 60,
-    "def": 63,
-    "faceOff": 53,
-    "pass": 60,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "position": 2,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 0,
-    "salary": 1000000,
-    "height": "6\"3'"
-  },
-  {
     "name": "Nikolay Goldobin",
     "age": 24,
     "number": 77,
@@ -1790,38 +1534,6 @@
     "years": 0,
     "salary": 1137500,
     "height": "5\"11'"
-  },
-  {
-    "name": "Ryan Spooner",
-    "age": 28,
-    "number": 15,
-    "off": 62,
-    "def": 63,
-    "faceOff": 68,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5544.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 0,
-    "salary": 1000000,
-    "height": "5\"11'"
-  },
-  {
-    "name": "Brendan Lemieux",
-    "age": 23,
-    "number": 48,
-    "off": 63,
-    "def": 65,
-    "faceOff": 62,
-    "pass": 62,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "position": 1,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 0,
-    "salary": 1070000,
-    "height": "6\"1'"
   },
   {
     "name": "Eric Comrie",

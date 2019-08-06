@@ -1,6 +1,5 @@
 [
   {
-    "id": 0,
     "team": 0,
     "name": "Adin Hill",
     "age": 23,
@@ -18,7 +17,6 @@
     "height": "6\"6'"
   },
   {
-    "id": 1,
     "team": 0,
     "name": "Alex Galchenyuk",
     "age": 25,
@@ -36,7 +34,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 2,
     "team": 0,
     "name": "Alex Goligoski",
     "age": 34,
@@ -54,7 +51,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 3,
     "team": 0,
     "name": "Antti Raanta",
     "age": 30,
@@ -72,7 +68,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 4,
     "team": 0,
     "name": "Brad Richardson",
     "age": 34,
@@ -90,7 +85,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 6,
     "team": 10,
     "name": "Calvin Pickard",
     "age": 27,
@@ -108,7 +102,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 7,
     "team": 0,
     "name": "Christian Dvorak",
     "age": 23,
@@ -126,7 +119,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 8,
     "team": 0,
     "name": "Christian Fischer",
     "age": 22,
@@ -144,7 +136,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 9,
     "team": 0,
     "name": "Clayton Keller",
     "age": 21,
@@ -162,7 +153,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 10,
     "team": 0,
     "name": "Conor Garland",
     "age": 23,
@@ -180,7 +170,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 11,
     "team": 17,
     "name": "Dakota Mermis",
     "age": 26,
@@ -198,7 +187,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 12,
     "team": 0,
     "name": "Darcy Kuemper",
     "age": 29,
@@ -216,7 +204,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 13,
     "team": 0,
     "name": "Derek Stepan",
     "age": 29,
@@ -234,7 +221,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 14,
     "team": 0,
     "name": "Dylan Strome",
     "age": 22,
@@ -252,7 +238,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 16,
     "team": 0,
     "name": "Ilya Lyubushkin",
     "age": 25,
@@ -270,7 +255,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 17,
     "team": 0,
     "name": "Jakob Chychrun",
     "age": 21,
@@ -288,7 +272,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 18,
     "team": 0,
     "name": "Jason Demers",
     "age": 31,
@@ -306,7 +289,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 19,
     "team": 0,
     "name": "Jordan Oesterle",
     "age": 27,
@@ -324,7 +306,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 20,
     "team": 0,
     "name": "Jordan Weal",
     "age": 27,
@@ -342,7 +323,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 21,
     "team": 11,
     "name": "Josh Archibald",
     "age": 27,
@@ -360,7 +340,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 22,
     "team": 0,
     "name": "Kevin Connauton",
     "age": 29,
@@ -378,7 +357,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 23,
     "team": 0,
     "name": "Kyle Capobianco",
     "age": 22,
@@ -396,7 +374,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 24,
     "team": 0,
     "name": "Laurent Dauphin",
     "age": 24,
@@ -414,7 +391,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 25,
     "team": 0,
     "name": "Lawson Crouse",
     "age": 22,
@@ -432,7 +408,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 26,
     "team": 13,
     "name": "Mario Kempe",
     "age": 31,
@@ -450,7 +425,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 27,
     "team": 0,
     "name": "Michael Bunting",
     "age": 24,
@@ -468,7 +442,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 28,
     "team": 0,
     "name": "Michael Grabner",
     "age": 32,
@@ -486,7 +459,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 29,
     "team": 15,
     "name": "Nick Cousins",
     "age": 26,
@@ -504,7 +476,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 30,
     "team": 0,
     "name": "Nick Schmaltz",
     "age": 23,
@@ -522,7 +493,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 31,
     "team": 0,
     "name": "Niklas Hjalmarsson",
     "age": 32,
@@ -540,7 +510,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 32,
     "team": 0,
     "name": "Oliver Ekman-Larsson",
     "age": 28,
@@ -558,7 +527,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 33,
     "team": 30,
     "name": "Richard Panik",
     "age": 28,
@@ -576,7 +544,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 34,
     "team": 0,
     "name": "Vinnie Hinostroza",
     "age": 25,
@@ -594,7 +561,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 35,
     "team": 1,
     "name": "Adam Cracknell",
     "age": 34,
@@ -612,7 +578,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 36,
     "team": 1,
     "name": "Adam Henrique",
     "age": 29,
@@ -630,7 +595,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 37,
     "team": 1,
     "name": "Andrej Sustr",
     "age": 29,
@@ -648,7 +612,6 @@
     "height": "6\"7'"
   },
   {
-    "id": 38,
     "team": 1,
     "name": "Andrew Cogliano",
     "age": 32,
@@ -666,7 +629,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 39,
     "team": 21,
     "name": "Andy Welinski",
     "age": 26,
@@ -684,7 +646,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 40,
     "team": 17,
     "name": "Ben Street",
     "age": 32,
@@ -702,7 +663,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 41,
     "team": 1,
     "name": "Brandon Montour",
     "age": 25,
@@ -720,7 +680,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 42,
     "team": 1,
     "name": "Brendan Guhle",
     "age": 22,
@@ -738,7 +697,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 43,
     "team": 4,
     "name": "Brian Gibbons",
     "age": 31,
@@ -756,7 +714,6 @@
     "height": "5\"8'"
   },
   {
-    "id": 44,
     "team": 1,
     "name": "Cam Fowler",
     "age": 28,
@@ -774,7 +731,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 45,
     "team": 1,
     "name": "Carter Rowney",
     "age": 30,
@@ -792,7 +748,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 47,
     "team": 1,
     "name": "Chase De Leo",
     "age": 24,
@@ -810,7 +765,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 48,
     "team": 9,
     "name": "Corey Perry",
     "age": 34,
@@ -828,7 +782,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 49,
     "team": 1,
     "name": "Daniel Sprong",
     "age": 22,
@@ -846,7 +799,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 50,
     "team": 1,
     "name": "Derek Grant",
     "age": 29,
@@ -864,7 +816,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 51,
     "team": 1,
     "name": "Devin Shore",
     "age": 25,
@@ -882,7 +833,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 52,
     "team": 1,
     "name": "Hampus Lindholm",
     "age": 26,
@@ -900,7 +850,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 53,
     "team": 1,
     "name": "Isac Lundestrom",
     "age": 20,
@@ -918,7 +867,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 54,
     "team": 1,
     "name": "Jacob Larsson",
     "age": 22,
@@ -936,7 +884,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 55,
     "team": 24,
     "name": "Jake Dotchin",
     "age": 25,
@@ -954,7 +901,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 56,
     "team": 1,
     "name": "Jakob Silfverberg",
     "age": 29,
@@ -972,7 +918,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 57,
     "team": 27,
     "name": "Jaycob Megna",
     "age": 27,
@@ -990,7 +935,6 @@
     "height": "6\"6'"
   },
   {
-    "id": 58,
     "team": 1,
     "name": "John Gibson",
     "age": 26,
@@ -1008,7 +952,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 59,
     "team": 22,
     "name": "Joseph Blandisi",
     "age": 25,
@@ -1026,7 +969,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 60,
     "team": 1,
     "name": "Josh Mahura",
     "age": 21,
@@ -1044,7 +986,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 61,
     "team": 1,
     "name": "Josh Manson",
     "age": 28,
@@ -1062,7 +1003,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 62,
     "team": 1,
     "name": "Justin Kloos",
     "age": 26,
@@ -1080,7 +1020,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 63,
     "team": 26,
     "name": "Kalle Kossila",
     "age": 26,
@@ -1098,7 +1037,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 64,
     "team": 1,
     "name": "Kevin Boyle",
     "age": 27,
@@ -1116,7 +1054,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 65,
     "team": 12,
     "name": "Kevin Roy",
     "age": 26,
@@ -1134,7 +1071,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 66,
     "team": 1,
     "name": "Kiefer Sherwood",
     "age": 24,
@@ -1152,7 +1088,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 67,
     "team": 1,
     "name": "Korbinian Holzer",
     "age": 31,
@@ -1170,7 +1105,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 68,
     "team": 25,
     "name": "Luke Schenn",
     "age": 30,
@@ -1188,7 +1122,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 70,
     "team": 1,
     "name": "Max Comtois",
     "age": 21,
@@ -1206,7 +1139,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 71,
     "team": 1,
     "name": "Max Jones",
     "age": 21,
@@ -1224,7 +1156,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 72,
     "team": 1,
     "name": "Michael Del Zotto",
     "age": 29,
@@ -1242,7 +1173,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 73,
     "team": 1,
     "name": "Nick Ritchie",
     "age": 24,
@@ -1260,7 +1190,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 74,
     "team": 1,
     "name": "Ondrej Kase",
     "age": 24,
@@ -1278,7 +1207,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 75,
     "team": 1,
     "name": "Patrick Eaves",
     "age": 35,
@@ -1296,7 +1224,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 76,
     "team": 26,
     "name": "Pontus Aberg",
     "age": 26,
@@ -1314,7 +1241,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 77,
     "team": 1,
     "name": "Rickard Rakell",
     "age": 26,
@@ -1332,7 +1258,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 78,
     "team": 1,
     "name": "Ryan Getzlaf",
     "age": 34,
@@ -1350,7 +1275,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 79,
     "team": 1,
     "name": "Ryan Kesler",
     "age": 35,
@@ -1368,7 +1292,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 80,
     "team": 1,
     "name": "Ryan Miller",
     "age": 39,
@@ -1386,7 +1309,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 81,
     "team": 1,
     "name": "Sam Carrick",
     "age": 27,
@@ -1404,7 +1326,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 82,
     "team": 1,
     "name": "Sam Steel",
     "age": 21,
@@ -1422,7 +1343,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 83,
     "team": 1,
     "name": "Troy Terry",
     "age": 22,
@@ -1440,7 +1360,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 84,
     "team": 2,
     "name": "Anders Bjork",
     "age": 23,
@@ -1458,7 +1377,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 85,
     "team": 2,
     "name": "Anton Blidh",
     "age": 24,
@@ -1476,7 +1394,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 86,
     "team": 2,
     "name": "Brad Marchand",
     "age": 31,
@@ -1494,7 +1411,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 88,
     "team": 2,
     "name": "Charlie Coyle",
     "age": 27,
@@ -1512,7 +1428,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 89,
     "team": 2,
     "name": "Charlie McAvoy",
     "age": 22,
@@ -1530,7 +1445,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 90,
     "team": 2,
     "name": "Chris Wagner",
     "age": 28,
@@ -1548,7 +1462,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 91,
     "team": 2,
     "name": "Colby Cave",
     "age": 25,
@@ -1566,7 +1479,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 92,
     "team": 2,
     "name": "Connor Clifton",
     "age": 24,
@@ -1584,7 +1496,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 93,
     "team": 2,
     "name": "Danton Heinen",
     "age": 24,
@@ -1602,7 +1513,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 94,
     "team": 2,
     "name": "David Backes",
     "age": 35,
@@ -1620,7 +1530,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 95,
     "team": 2,
     "name": "David Krejci",
     "age": 33,
@@ -1638,7 +1547,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 96,
     "team": 2,
     "name": "David Pastrnak",
     "age": 23,
@@ -1656,7 +1564,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 97,
     "team": 25,
     "name": "Gemel Smith",
     "age": 25,
@@ -1674,7 +1581,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 98,
     "team": 2,
     "name": "Jake Debrusk",
     "age": 23,
@@ -1692,7 +1598,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 99,
     "team": 2,
     "name": "Jakob Forsbacka Karlsson",
     "age": 23,
@@ -1710,7 +1615,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 100,
     "team": 2,
     "name": "Jakub Zboril",
     "age": 22,
@@ -1728,7 +1632,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 101,
     "team": 2,
     "name": "Jaroslav Halak",
     "age": 34,
@@ -1746,7 +1649,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 102,
     "team": 2,
     "name": "Jeremy Lauzon",
     "age": 22,
@@ -1764,7 +1666,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 103,
     "team": 2,
     "name": "Joakim Nordstrom",
     "age": 27,
@@ -1782,7 +1683,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 104,
     "team": 2,
     "name": "John Moore",
     "age": 29,
@@ -1800,7 +1700,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 105,
     "team": 2,
     "name": "Karson Kuhlman",
     "age": 24,
@@ -1818,7 +1717,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 106,
     "team": 2,
     "name": "Kevan Miller",
     "age": 32,
@@ -1836,7 +1734,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 108,
     "team": 3,
     "name": "Marcus Johansson",
     "age": 29,
@@ -1854,7 +1751,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 109,
     "team": 2,
     "name": "Matt Grzelcyk",
     "age": 26,
@@ -1872,7 +1768,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 110,
     "team": 12,
     "name": "Noel Acciari",
     "age": 28,
@@ -1890,7 +1785,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 111,
     "team": 2,
     "name": "Patrice Bergeron",
     "age": 34,
@@ -1908,7 +1802,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 112,
     "team": 2,
     "name": "Paul Carey",
     "age": 31,
@@ -1926,7 +1819,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 113,
     "team": 2,
     "name": "Peter Cehlarik",
     "age": 24,
@@ -1944,7 +1836,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 114,
     "team": 14,
     "name": "Ryan Donato",
     "age": 23,
@@ -1962,7 +1853,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 115,
     "team": 2,
     "name": "Sean Kuraly",
     "age": 27,
@@ -1980,7 +1870,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 116,
     "team": 2,
     "name": "Steven Kampfer",
     "age": 31,
@@ -1998,7 +1887,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 117,
     "team": 2,
     "name": "Torey Krug",
     "age": 28,
@@ -2016,7 +1904,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 118,
     "team": 2,
     "name": "Trent Frederic",
     "age": 21,
@@ -2034,7 +1921,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 119,
     "team": 2,
     "name": "Tuukka Rask",
     "age": 32,
@@ -2052,7 +1938,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 120,
     "team": 2,
     "name": "Urho Vaakanainen",
     "age": 21,
@@ -2070,7 +1955,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 121,
     "team": 2,
     "name": "Zachary Senyshyn",
     "age": 22,
@@ -2088,7 +1972,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 122,
     "team": 2,
     "name": "Zdeno Chara",
     "age": 42,
@@ -2106,7 +1989,6 @@
     "height": "6\"9'"
   },
   {
-    "id": 123,
     "team": 3,
     "name": "Alexander Nylander",
     "age": 21,
@@ -2124,43 +2006,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 124,
-    "team": 3,
-    "name": "Brandon Montour",
-    "age": 25,
-    "number": 62,
-    "off": 78,
-    "def": 84,
-    "faceOff": 53,
-    "pass": 75,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3115032.png&w=200&h=145",
-    "position": 3,
-    "positioning": 47,
-    "reflexes": 47,
-    "years": 1,
-    "salary": 3387500,
-    "height": "6\"1'"
-  },
-  {
-    "id": 125,
-    "team": 3,
-    "name": "Brendan Guhle",
-    "age": 22,
-    "number": 45,
-    "off": 60,
-    "def": 64,
-    "faceOff": 53,
-    "pass": 61,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 925000,
-    "height": "6\"2'"
-  },
-  {
-    "id": 126,
     "team": 3,
     "name": "C.J. Smith",
     "age": 25,
@@ -2178,7 +2023,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 127,
     "team": 3,
     "name": "Carter Hutton",
     "age": 34,
@@ -2196,7 +2040,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 128,
     "team": 3,
     "name": "Casey Mittelstadt",
     "age": 21,
@@ -2214,7 +2057,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 129,
     "team": 3,
     "name": "Casey Nelson",
     "age": 27,
@@ -2232,7 +2074,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 130,
     "team": 3,
     "name": "Conor Sheary",
     "age": 27,
@@ -2250,7 +2091,6 @@
     "height": "5\"8'"
   },
   {
-    "id": 132,
     "team": 3,
     "name": "Evan Rodrigues",
     "age": 26,
@@ -2268,7 +2108,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 133,
     "team": 3,
     "name": "Jack Eichel",
     "age": 23,
@@ -2286,7 +2125,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 134,
     "team": 3,
     "name": "Jake McCabe",
     "age": 26,
@@ -2304,7 +2142,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 136,
     "team": 3,
     "name": "Jeff Skinner",
     "age": 27,
@@ -2322,7 +2159,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 137,
     "team": 3,
     "name": "Johan Larsson",
     "age": 27,
@@ -2340,7 +2176,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 138,
     "team": 3,
     "name": "Kyle Okposo",
     "age": 31,
@@ -2358,7 +2193,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 139,
     "team": 3,
     "name": "Lawrence Pilut",
     "age": 24,
@@ -2376,7 +2210,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 140,
     "team": 3,
     "name": "Linus Ullmark",
     "age": 26,
@@ -2394,7 +2227,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 141,
     "team": 3,
     "name": "Marco Scandella",
     "age": 29,
@@ -2412,7 +2244,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 142,
     "team": 3,
     "name": "Matt Hunwick",
     "age": 34,
@@ -2430,7 +2261,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 143,
     "team": 17,
     "name": "Matt Tennyson",
     "age": 29,
@@ -2448,7 +2278,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 144,
     "team": 29,
     "name": "Nathan Beaulieu",
     "age": 27,
@@ -2466,7 +2295,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 145,
     "team": 3,
     "name": "Patrik Berglund",
     "age": 31,
@@ -2484,7 +2312,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 146,
     "team": 3,
     "name": "Rasmus Dahlin",
     "age": 19,
@@ -2502,7 +2329,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 147,
     "team": 3,
     "name": "Rasmus Ristolainen",
     "age": 25,
@@ -2520,7 +2346,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 148,
     "team": 3,
     "name": "Remi Elie",
     "age": 24,
@@ -2538,7 +2363,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 149,
     "team": 3,
     "name": "Sam Reinhart",
     "age": 24,
@@ -2556,7 +2380,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 150,
     "team": 3,
     "name": "Scott Wilson",
     "age": 27,
@@ -2574,7 +2397,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 151,
     "team": 3,
     "name": "Tage Thompson",
     "age": 22,
@@ -2592,7 +2414,6 @@
     "height": "6\"6'"
   },
   {
-    "id": 152,
     "team": 3,
     "name": "Victor Olofsson",
     "age": 24,
@@ -2610,7 +2431,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 153,
     "team": 3,
     "name": "Vladimir Sobotka",
     "age": 32,
@@ -2628,7 +2448,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 154,
     "team": 3,
     "name": "William Borgen",
     "age": 23,
@@ -2646,7 +2465,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 155,
     "team": 3,
     "name": "Zach Bogosian",
     "age": 29,
@@ -2664,7 +2482,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 156,
     "team": 3,
     "name": "Zemgus Girgensons",
     "age": 26,
@@ -2682,7 +2499,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 157,
     "team": 4,
     "name": "Alex Nedeljkovic",
     "age": 24,
@@ -2700,7 +2516,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 158,
     "team": 4,
     "name": "Andrei Svechnikov",
     "age": 19,
@@ -2718,7 +2533,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 159,
     "team": 4,
     "name": "Brett Pesce",
     "age": 25,
@@ -2736,7 +2550,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 160,
     "team": 4,
     "name": "Brock McGinn",
     "age": 25,
@@ -2754,7 +2567,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 161,
     "team": 4,
     "name": "Calvin de Haan",
     "age": 28,
@@ -2772,7 +2584,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 162,
     "team": 4,
     "name": "Clark Bishop",
     "age": 23,
@@ -2790,7 +2601,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 163,
     "team": 25,
     "name": "Curtis McElhinney",
     "age": 36,
@@ -2808,7 +2618,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 164,
     "team": 4,
     "name": "Dougie Hamilton",
     "age": 26,
@@ -2826,7 +2635,6 @@
     "height": "6\"6'"
   },
   {
-    "id": 165,
     "team": 19,
     "name": "Greg McKegg",
     "age": 27,
@@ -2844,7 +2652,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 166,
     "team": 4,
     "name": "Haydn Fleury",
     "age": 23,
@@ -2862,7 +2669,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 167,
     "team": 4,
     "name": "Jaccob Slavin",
     "age": 25,
@@ -2880,7 +2686,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 168,
     "team": 4,
     "name": "Jake Bean",
     "age": 21,
@@ -2898,7 +2703,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 169,
     "team": 4,
     "name": "Janne Kuokkanen",
     "age": 21,
@@ -2916,7 +2720,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 170,
     "team": 4,
     "name": "Jordan Martinook",
     "age": 27,
@@ -2934,7 +2737,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 171,
     "team": 4,
     "name": "Jordan Staal",
     "age": 31,
@@ -2952,7 +2754,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 172,
     "team": 4,
     "name": "Justin Faulk",
     "age": 27,
@@ -2970,7 +2771,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 174,
     "team": 4,
     "name": "Lucas Wallmark",
     "age": 24,
@@ -2988,7 +2788,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 175,
     "team": 4,
     "name": "Martin Necas",
     "age": 21,
@@ -3006,7 +2805,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 176,
     "team": 28,
     "name": "Micheal Ferland",
     "age": 27,
@@ -3024,7 +2822,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 177,
     "team": 4,
     "name": "Nicolas Roy",
     "age": 22,
@@ -3042,7 +2839,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 178,
     "team": 4,
     "name": "Nino Niederreiter",
     "age": 27,
@@ -3060,7 +2856,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 179,
     "team": 4,
     "name": "Petr Mrazek",
     "age": 27,
@@ -3078,7 +2873,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 180,
     "team": 19,
     "name": "Phillip Di Giuseppe",
     "age": 26,
@@ -3096,7 +2890,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 183,
     "team": 4,
     "name": "Sebastian Aho",
     "age": 22,
@@ -3114,7 +2907,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 184,
     "team": 4,
     "name": "Teuvo Teravainen",
     "age": 25,
@@ -3132,7 +2924,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 186,
     "team": 4,
     "name": "Trevor van Riemsdyk",
     "age": 28,
@@ -3150,7 +2941,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 187,
     "team": 4,
     "name": "Valentin Zykov",
     "age": 24,
@@ -3168,7 +2958,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 188,
     "team": 4,
     "name": "Victor Rask",
     "age": 26,
@@ -3186,7 +2975,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 189,
     "team": 4,
     "name": "Warren Foegele",
     "age": 23,
@@ -3204,7 +2992,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 190,
     "team": 5,
     "name": "Adam Clendening",
     "age": 27,
@@ -3222,7 +3009,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 192,
     "team": 5,
     "name": "Alexander Wennberg",
     "age": 25,
@@ -3240,7 +3026,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 193,
     "team": 5,
     "name": "Alexandre Texier",
     "age": 20,
@@ -3258,7 +3043,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 194,
     "team": 5,
     "name": "Anthony Duclair",
     "age": 24,
@@ -3276,7 +3060,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 195,
     "team": 19,
     "name": "Artemi Panarin",
     "age": 28,
@@ -3294,7 +3077,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 196,
     "team": 5,
     "name": "Boone Jenner",
     "age": 26,
@@ -3312,7 +3094,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 197,
     "team": 5,
     "name": "Brandon Dubinsky",
     "age": 33,
@@ -3330,7 +3111,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 198,
     "team": 5,
     "name": "Cam Atkinson",
     "age": 30,
@@ -3348,7 +3128,6 @@
     "height": "5\"8'"
   },
   {
-    "id": 199,
     "team": 5,
     "name": "David Savard",
     "age": 29,
@@ -3366,7 +3145,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 200,
     "team": 5,
     "name": "Dean Kukan",
     "age": 26,
@@ -3384,7 +3162,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 201,
     "team": 5,
     "name": "Eric Robinson",
     "age": 24,
@@ -3402,7 +3179,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 202,
     "team": 5,
     "name": "Gabriel Carlsson",
     "age": 23,
@@ -3420,7 +3196,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 203,
     "team": 5,
     "name": "Joonas Korpisalo",
     "age": 25,
@@ -3438,7 +3213,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 204,
     "team": 5,
     "name": "Josh Anderson",
     "age": 25,
@@ -3456,7 +3230,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 205,
     "team": 5,
     "name": "Kevin Stenlund",
     "age": 23,
@@ -3474,7 +3247,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 206,
     "team": 5,
     "name": "Kole Sherwood",
     "age": 23,
@@ -3492,7 +3264,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 208,
     "team": 29,
     "name": "Mark Letestu",
     "age": 34,
@@ -3510,7 +3281,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 209,
     "team": 5,
     "name": "Markus Hannikainen",
     "age": 26,
@@ -3528,7 +3298,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 210,
     "team": 5,
     "name": "Markus Nutivaara",
     "age": 25,
@@ -3546,7 +3315,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 211,
     "team": 16,
     "name": "Matt Duchene",
     "age": 29,
@@ -3564,7 +3332,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 212,
     "team": 5,
     "name": "Nick Foligno",
     "age": 32,
@@ -3582,7 +3349,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 213,
     "team": 5,
     "name": "Oliver Bjorkstrand",
     "age": 24,
@@ -3600,7 +3366,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 214,
     "team": 5,
     "name": "Pierre-Luc Dubois",
     "age": 21,
@@ -3618,7 +3383,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 215,
     "team": 5,
     "name": "Riley Nash",
     "age": 30,
@@ -3636,7 +3400,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 216,
     "team": 4,
     "name": "Ryan Dzingel",
     "age": 27,
@@ -3654,7 +3417,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 217,
     "team": 5,
     "name": "Ryan Murray",
     "age": 26,
@@ -3672,7 +3434,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 218,
     "team": 5,
     "name": "Scott Harrington",
     "age": 26,
@@ -3690,7 +3451,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 219,
     "team": 12,
     "name": "Sergei Bobrovsky",
     "age": 31,
@@ -3708,7 +3468,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 220,
     "team": 5,
     "name": "Seth Jones",
     "age": 25,
@@ -3726,7 +3485,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 221,
     "team": 5,
     "name": "Sonny Milano",
     "age": 23,
@@ -3744,7 +3502,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 222,
     "team": 5,
     "name": "Zac Dalpe",
     "age": 30,
@@ -3762,7 +3519,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 223,
     "team": 5,
     "name": "Zach Werenski",
     "age": 22,
@@ -3780,7 +3536,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 224,
     "team": 6,
     "name": "Alan Quine",
     "age": 26,
@@ -3798,7 +3553,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 227,
     "team": 6,
     "name": "Austin Czarnik",
     "age": 27,
@@ -3816,7 +3570,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 229,
     "team": 23,
     "name": "Dalton Prout",
     "age": 29,
@@ -3834,7 +3587,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 230,
     "team": 6,
     "name": "David Rittich",
     "age": 27,
@@ -3852,7 +3604,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 231,
     "team": 6,
     "name": "Derek Ryan",
     "age": 33,
@@ -3870,7 +3621,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 232,
     "team": 6,
     "name": "Dillon Dube",
     "age": 21,
@@ -3888,7 +3638,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 233,
     "team": 6,
     "name": "Elias Lindholm",
     "age": 25,
@@ -3906,7 +3655,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 234,
     "team": 30,
     "name": "Garnet Hathaway",
     "age": 28,
@@ -3924,7 +3672,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 235,
     "team": 6,
     "name": "James Neal",
     "age": 32,
@@ -3942,7 +3689,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 236,
     "team": 6,
     "name": "Johnny Gaudreau",
     "age": 26,
@@ -3960,7 +3706,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 237,
     "team": 6,
     "name": "Juuso Valimaki",
     "age": 21,
@@ -3978,7 +3723,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 238,
     "team": 6,
     "name": "Kerby Rychel",
     "age": 25,
@@ -3996,7 +3740,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 239,
     "team": 6,
     "name": "Mark Giordano",
     "age": 36,
@@ -4014,7 +3757,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 240,
     "team": 6,
     "name": "Mark Jankowski",
     "age": 25,
@@ -4032,7 +3774,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 242,
     "team": 6,
     "name": "Michael Frolik",
     "age": 31,
@@ -4050,7 +3791,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 244,
     "team": 6,
     "name": "Mikael Backlund",
     "age": 30,
@@ -4068,7 +3808,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 245,
     "team": 11,
     "name": "Mike Smith",
     "age": 37,
@@ -4086,7 +3825,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 246,
     "team": 6,
     "name": "Noah Hanifin",
     "age": 23,
@@ -4104,7 +3842,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 247,
     "team": 6,
     "name": "Oliver Kylington",
     "age": 22,
@@ -4122,7 +3859,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 248,
     "team": 28,
     "name": "Oscar Fantenberg",
     "age": 28,
@@ -4140,7 +3876,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 249,
     "team": 6,
     "name": "Rasmus Andersson",
     "age": 23,
@@ -4158,7 +3893,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 250,
     "team": 6,
     "name": "Ryan Lomberg",
     "age": 25,
@@ -4176,7 +3910,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 251,
     "team": 6,
     "name": "Sam Bennett",
     "age": 23,
@@ -4194,7 +3927,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 252,
     "team": 6,
     "name": "Sean Monahan",
     "age": 25,
@@ -4212,7 +3944,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 253,
     "team": 6,
     "name": "T.J. Brodie",
     "age": 29,
@@ -4230,7 +3961,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 254,
     "team": 6,
     "name": "Travis Hamonic",
     "age": 29,
@@ -4248,7 +3978,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 255,
     "team": 7,
     "name": "Alex DeBrincat",
     "age": 22,
@@ -4266,7 +3995,6 @@
     "height": "5\"7'"
   },
   {
-    "id": 256,
     "team": 7,
     "name": "Alexandre Fortin",
     "age": 22,
@@ -4284,7 +4012,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 257,
     "team": 1,
     "name": "Andreas Martinsen",
     "age": 29,
@@ -4302,7 +4029,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 258,
     "team": 7,
     "name": "Artem Anisimov",
     "age": 31,
@@ -4320,7 +4046,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 259,
     "team": 6,
     "name": "Brandon Davidson",
     "age": 28,
@@ -4338,7 +4063,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 260,
     "team": 7,
     "name": "Brandon Manning",
     "age": 29,
@@ -4356,7 +4080,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 261,
     "team": 7,
     "name": "Brandon Saad",
     "age": 27,
@@ -4374,7 +4097,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 263,
     "team": 7,
     "name": "Brent Seabrook",
     "age": 34,
@@ -4392,7 +4114,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 265,
     "team": 7,
     "name": "Carl Dahlstrom",
     "age": 25,
@@ -4410,7 +4131,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 267,
     "team": 7,
     "name": "Collin Delia",
     "age": 25,
@@ -4428,7 +4148,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 268,
     "team": 7,
     "name": "Connor Murphy",
     "age": 26,
@@ -4446,7 +4165,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 269,
     "team": 7,
     "name": "Corey Crawford",
     "age": 35,
@@ -4464,7 +4182,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 270,
     "team": 7,
     "name": "David Kampf",
     "age": 25,
@@ -4482,7 +4199,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 271,
     "team": 7,
     "name": "Dennis Gilbert",
     "age": 23,
@@ -4500,7 +4216,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 272,
     "team": 7,
     "name": "Dominik Kahun",
     "age": 24,
@@ -4518,7 +4233,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 273,
     "team": 7,
     "name": "Drake Caggiula",
     "age": 25,
@@ -4536,7 +4250,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 274,
     "team": 7,
     "name": "Duncan Keith",
     "age": 36,
@@ -4554,7 +4267,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 275,
     "team": 7,
     "name": "Dylan Sikura",
     "age": 24,
@@ -4572,25 +4284,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 276,
-    "team": 7,
-    "name": "Dylan Strome",
-    "age": 22,
-    "number": 17,
-    "off": 62,
-    "def": 63,
-    "faceOff": 74,
-    "pass": 62,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3899933.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 3400000,
-    "height": "6\"3'"
-  },
-  {
-    "id": 277,
     "team": 7,
     "name": "Erik Gustafsson",
     "age": 27,
@@ -4608,7 +4301,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 278,
     "team": 4,
     "name": "Gustav Forsling",
     "age": 23,
@@ -4626,7 +4318,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 279,
     "team": 7,
     "name": "Henri Jokiharju",
     "age": 20,
@@ -4644,7 +4335,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 280,
     "team": 7,
     "name": "Jacob Nilsson",
     "age": 26,
@@ -4662,7 +4352,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 281,
     "team": 7,
     "name": "Jan Rutta",
     "age": 29,
@@ -4680,7 +4369,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 282,
     "team": 7,
     "name": "John Hayden",
     "age": 24,
@@ -4698,7 +4386,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 283,
     "team": 7,
     "name": "Jonathan Toews",
     "age": 31,
@@ -4716,7 +4403,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 284,
     "team": 14,
     "name": "Luke Johnson",
     "age": 25,
@@ -4734,7 +4420,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 285,
     "team": 7,
     "name": "Marcus Kruger",
     "age": 29,
@@ -4752,25 +4437,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 286,
-    "team": 7,
-    "name": "Nick Schmaltz",
-    "age": 23,
-    "number": 8,
-    "off": 64,
-    "def": 64,
-    "faceOff": 65,
-    "pass": 66,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3114770.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 7,
-    "salary": 5850000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 287,
     "team": 7,
     "name": "Patrick Kane",
     "age": 31,
@@ -4788,7 +4454,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 288,
     "team": 7,
     "name": "Slater Koekkoek",
     "age": 25,
@@ -4806,7 +4471,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 289,
     "team": 8,
     "name": "A.J. Greer",
     "age": 23,
@@ -4824,7 +4488,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 290,
     "team": 26,
     "name": "Alexander Kerfoot",
     "age": 25,
@@ -4842,7 +4505,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 291,
     "team": 22,
     "name": "Andrew Agozzino",
     "age": 29,
@@ -4860,7 +4522,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 292,
     "team": 8,
     "name": "Anton Lindholm",
     "age": 25,
@@ -4878,7 +4539,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 293,
     "team": 8,
     "name": "Carl Soderberg",
     "age": 34,
@@ -4896,7 +4556,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 294,
     "team": 8,
     "name": "Colin Wilson",
     "age": 30,
@@ -4914,7 +4573,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 296,
     "team": 12,
     "name": "Dominic Toninato",
     "age": 25,
@@ -4932,7 +4590,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 297,
     "team": 8,
     "name": "Erik Johnson",
     "age": 31,
@@ -4950,7 +4607,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 299,
     "team": 8,
     "name": "Gabriel Landeskog",
     "age": 27,
@@ -4968,7 +4624,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 300,
     "team": 8,
     "name": "Ian Cole",
     "age": 30,
@@ -4986,7 +4641,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 301,
     "team": 8,
     "name": "J.T. Compher",
     "age": 24,
@@ -5004,7 +4658,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 302,
     "team": 8,
     "name": "Logan O'Connor",
     "age": 23,
@@ -5022,7 +4675,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 303,
     "team": 8,
     "name": "Mark Alt",
     "age": 28,
@@ -5040,7 +4692,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 304,
     "team": 8,
     "name": "Mark Barberio",
     "age": 29,
@@ -5058,7 +4709,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 306,
     "team": 8,
     "name": "Matt Calvert",
     "age": 30,
@@ -5076,7 +4726,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 307,
     "team": 8,
     "name": "Matthew Nieto",
     "age": 27,
@@ -5094,7 +4743,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 309,
     "team": 8,
     "name": "Nathan MacKinnon",
     "age": 24,
@@ -5112,7 +4760,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 310,
     "team": 8,
     "name": "Nikita Zadorov",
     "age": 24,
@@ -5130,7 +4777,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 311,
     "team": 10,
     "name": "Patrik Nemeth",
     "age": 27,
@@ -5148,7 +4794,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 312,
     "team": 8,
     "name": "Pavel Francouz",
     "age": 29,
@@ -5166,7 +4811,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 313,
     "team": 8,
     "name": "Philipp Grubauer",
     "age": 28,
@@ -5184,7 +4828,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 314,
     "team": 8,
     "name": "Ryan Graves",
     "age": 24,
@@ -5202,7 +4845,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 315,
     "team": 8,
     "name": "Samuel Girard",
     "age": 21,
@@ -5220,7 +4862,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 316,
     "team": 18,
     "name": "Semyon Varlamov",
     "age": 31,
@@ -5238,7 +4879,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 317,
     "team": 8,
     "name": "Sheldon Dries",
     "age": 25,
@@ -5256,7 +4896,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 318,
     "team": 8,
     "name": "Sven Andrighetto",
     "age": 26,
@@ -5274,7 +4913,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 319,
     "team": 8,
     "name": "Tyson Barrie",
     "age": 28,
@@ -5292,7 +4930,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 320,
     "team": 8,
     "name": "Tyson Jost",
     "age": 21,
@@ -5310,7 +4947,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 321,
     "team": 8,
     "name": "Vladislav Kamenev",
     "age": 23,
@@ -5328,7 +4964,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 322,
     "team": 9,
     "name": "Alexander Radulov",
     "age": 33,
@@ -5346,25 +4981,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 323,
-    "team": 9,
-    "name": "Andrew Cogliano",
-    "age": 32,
-    "number": 17,
-    "off": 80,
-    "def": 84,
-    "faceOff": 64,
-    "pass": 69,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3655.png&w=200&h=145",
-    "position": 0,
-    "positioning": 55,
-    "reflexes": 55,
-    "years": 2,
-    "salary": 3250000,
-    "height": "5\"10'"
-  },
-  {
-    "id": 324,
     "team": 9,
     "name": "Anton Khudobin",
     "age": 33,
@@ -5382,7 +4998,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 325,
     "team": 9,
     "name": "Ben Bishop",
     "age": 33,
@@ -5400,7 +5015,6 @@
     "height": "6\"7'"
   },
   {
-    "id": 326,
     "team": 9,
     "name": "Ben Gleason",
     "age": 21,
@@ -5418,7 +5032,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 328,
     "team": 9,
     "name": "Blake Comeau",
     "age": 33,
@@ -5436,7 +5049,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 329,
     "team": 2,
     "name": "Brett Ritchie",
     "age": 26,
@@ -5454,7 +5066,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 330,
     "team": 17,
     "name": "Connor Carrick",
     "age": 25,
@@ -5472,7 +5083,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 331,
     "team": 9,
     "name": "Denis Gurianov",
     "age": 22,
@@ -5490,25 +5100,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 332,
-    "team": 9,
-    "name": "Devin Shore",
-    "age": 25,
-    "number": 17,
-    "off": 65,
-    "def": 66,
-    "faceOff": 67,
-    "pass": 65,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3069353.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 2300000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 333,
     "team": 9,
     "name": "Dillon Heatherington",
     "age": 24,
@@ -5526,7 +5117,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 335,
     "team": 9,
     "name": "Esa Lindell",
     "age": 25,
@@ -5544,7 +5134,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 336,
     "team": 9,
     "name": "Gavin Bayreuther",
     "age": 25,
@@ -5562,25 +5151,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 337,
-    "team": 25,
-    "name": "Gemel Smith",
-    "age": 25,
-    "number": 46,
-    "off": 60,
-    "def": 63,
-    "faceOff": 53,
-    "pass": 60,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3069357.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 700000,
-    "height": "5\"11'"
-  },
-  {
-    "id": 338,
     "team": 9,
     "name": "Jamie Benn",
     "age": 30,
@@ -5598,7 +5168,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 339,
     "team": 9,
     "name": "Jamie Oleksiak",
     "age": 27,
@@ -5616,7 +5185,6 @@
     "height": "6\"7'"
   },
   {
-    "id": 340,
     "team": 9,
     "name": "Jason Dickinson",
     "age": 24,
@@ -5634,7 +5202,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 341,
     "team": 26,
     "name": "Jason Spezza",
     "age": 36,
@@ -5652,7 +5219,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 342,
     "team": 9,
     "name": "Joel Hanley",
     "age": 28,
@@ -5670,7 +5236,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 343,
     "team": 9,
     "name": "Joel L'Esperance",
     "age": 24,
@@ -5688,7 +5253,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 344,
     "team": 9,
     "name": "John Klingberg",
     "age": 27,
@@ -5706,7 +5270,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 346,
     "team": 9,
     "name": "Justin Dowling",
     "age": 29,
@@ -5724,7 +5287,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 347,
     "team": 9,
     "name": "Landon Bow",
     "age": 24,
@@ -5742,7 +5304,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 349,
     "team": 9,
     "name": "Martin Hanzal",
     "age": 32,
@@ -5760,7 +5321,6 @@
     "height": "6\"6'"
   },
   {
-    "id": 350,
     "team": 9,
     "name": "Mats Zuccarello",
     "age": 32,
@@ -5778,7 +5338,6 @@
     "height": "5\"8'"
   },
   {
-    "id": 351,
     "team": 9,
     "name": "Mattias Janmark",
     "age": 27,
@@ -5796,7 +5355,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 352,
     "team": 9,
     "name": "Miro Heiskanen",
     "age": 20,
@@ -5814,7 +5372,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 353,
     "team": 9,
     "name": "Radek Faksa",
     "age": 26,
@@ -5832,7 +5389,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 354,
     "team": 9,
     "name": "Roman Polak",
     "age": 33,
@@ -5850,7 +5406,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 355,
     "team": 9,
     "name": "Roope Hintz",
     "age": 23,
@@ -5868,7 +5423,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 356,
     "team": 9,
     "name": "Taylor Fedun",
     "age": 31,
@@ -5886,7 +5440,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 357,
     "team": 9,
     "name": "Tyler Pitlick",
     "age": 28,
@@ -5904,7 +5457,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 358,
     "team": 9,
     "name": "Tyler Seguin",
     "age": 28,
@@ -5922,7 +5474,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 360,
     "team": 10,
     "name": "Andreas Athanasiou",
     "age": 25,
@@ -5940,7 +5491,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 361,
     "team": 10,
     "name": "Anthony Mantha",
     "age": 25,
@@ -5958,7 +5508,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 362,
     "team": 10,
     "name": "Brian Lashoff",
     "age": 29,
@@ -5976,7 +5525,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 363,
     "team": 10,
     "name": "Christoffer Ehn",
     "age": 23,
@@ -5994,7 +5542,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 364,
     "team": 10,
     "name": "Danny DeKeyser",
     "age": 29,
@@ -6012,7 +5559,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 365,
     "team": 10,
     "name": "Darren Helm",
     "age": 33,
@@ -6030,7 +5576,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 366,
     "team": 10,
     "name": "Dennis Cholowski",
     "age": 21,
@@ -6048,7 +5593,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 367,
     "team": 10,
     "name": "Dominic Turgeon",
     "age": 23,
@@ -6066,7 +5610,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 368,
     "team": 10,
     "name": "Dylan Larkin",
     "age": 23,
@@ -6084,7 +5627,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 369,
     "team": 10,
     "name": "Dylan McIlrath",
     "age": 27,
@@ -6102,7 +5644,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 370,
     "team": 10,
     "name": "Filip Hronek",
     "age": 22,
@@ -6120,7 +5661,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 371,
     "team": 10,
     "name": "Filip Zadina",
     "age": 20,
@@ -6138,7 +5678,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 372,
     "team": 10,
     "name": "Frans Nielsen",
     "age": 35,
@@ -6156,7 +5695,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 373,
     "team": 5,
     "name": "Gustav Nyquist",
     "age": 30,
@@ -6174,7 +5712,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 374,
     "team": 10,
     "name": "Jacob de La Rose",
     "age": 24,
@@ -6192,7 +5729,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 375,
     "team": 10,
     "name": "Jake Chelios",
     "age": 28,
@@ -6210,7 +5746,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 376,
     "team": 10,
     "name": "Jimmy Howard",
     "age": 35,
@@ -6228,7 +5763,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 377,
     "team": 10,
     "name": "Joe Hicketts",
     "age": 23,
@@ -6246,7 +5780,6 @@
     "height": "5\"8'"
   },
   {
-    "id": 378,
     "team": 10,
     "name": "Jonathan Bernier",
     "age": 31,
@@ -6264,7 +5797,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 379,
     "team": 10,
     "name": "Jonathan Ericsson",
     "age": 35,
@@ -6282,7 +5814,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 380,
     "team": 10,
     "name": "Justin Abdelkader",
     "age": 32,
@@ -6300,7 +5831,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 381,
     "team": 10,
     "name": "Kaden Fulcher",
     "age": 21,
@@ -6318,7 +5848,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 383,
     "team": 10,
     "name": "Luke Glendening",
     "age": 30,
@@ -6336,7 +5865,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 384,
     "team": 25,
     "name": "Luke Witkowski",
     "age": 29,
@@ -6354,7 +5882,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 385,
     "team": 10,
     "name": "Madison Bowey",
     "age": 24,
@@ -6372,7 +5899,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 386,
     "team": 13,
     "name": "Martin Frk",
     "age": 26,
@@ -6390,7 +5916,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 387,
     "team": 10,
     "name": "Matt Puempel",
     "age": 27,
@@ -6408,7 +5933,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 388,
     "team": 10,
     "name": "Michael Rasmussen",
     "age": 20,
@@ -6426,7 +5950,6 @@
     "height": "6\"6'"
   },
   {
-    "id": 389,
     "team": 10,
     "name": "Mike Green",
     "age": 34,
@@ -6444,7 +5967,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 390,
     "team": 10,
     "name": "Nick Jensen",
     "age": 29,
@@ -6462,7 +5984,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 392,
     "team": 10,
     "name": "Ryan Kuffner",
     "age": 23,
@@ -6480,7 +6001,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 393,
     "team": 10,
     "name": "Taro Hirose",
     "age": 23,
@@ -6498,7 +6018,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 395,
     "team": 10,
     "name": "Trevor Daley",
     "age": 36,
@@ -6516,7 +6035,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 396,
     "team": 10,
     "name": "Tyler Bertuzzi",
     "age": 24,
@@ -6534,7 +6052,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 397,
     "team": 10,
     "name": "Wade Megan",
     "age": 29,
@@ -6552,7 +6069,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 398,
     "team": 11,
     "name": "Adam Larsson",
     "age": 27,
@@ -6570,7 +6086,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 399,
     "team": 11,
     "name": "Alex Chiasson",
     "age": 29,
@@ -6588,7 +6103,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 400,
     "team": 11,
     "name": "Alexander Petrovic",
     "age": 27,
@@ -6606,7 +6120,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 401,
     "team": 9,
     "name": "Andrej Sekera",
     "age": 33,
@@ -6624,7 +6137,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 402,
     "team": 1,
     "name": "Anthony Stolarz",
     "age": 26,
@@ -6642,7 +6154,6 @@
     "height": "6\"6'"
   },
   {
-    "id": 403,
     "team": 11,
     "name": "Brad Malone",
     "age": 30,
@@ -6660,25 +6171,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 404,
-    "team": 11,
-    "name": "Brandon Manning",
-    "age": 29,
-    "number": 26,
-    "off": 62,
-    "def": 63,
-    "faceOff": 53,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2486598.png&w=200&h=145",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 2250000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 405,
     "team": 11,
     "name": "Caleb Jones",
     "age": 22,
@@ -6696,7 +6188,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 406,
     "team": 11,
     "name": "Cam Talbot",
     "age": 32,
@@ -6714,7 +6205,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 407,
     "team": 1,
     "name": "Chris Wideman",
     "age": 30,
@@ -6732,25 +6222,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 408,
-    "team": 11,
-    "name": "Colby Cave",
-    "age": 25,
-    "number": 12,
-    "off": 62,
-    "def": 65,
-    "faceOff": 69,
-    "pass": 63,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3069528.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 675000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 409,
     "team": 11,
     "name": "Connor McDavid",
     "age": 23,
@@ -6768,7 +6239,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 410,
     "team": 11,
     "name": "Cooper Marody",
     "age": 23,
@@ -6786,7 +6256,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 411,
     "team": 11,
     "name": "Darnell Nurse",
     "age": 24,
@@ -6804,25 +6273,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 412,
-    "team": 11,
-    "name": "Drake Caggiula",
-    "age": 25,
-    "number": 91,
-    "off": 65,
-    "def": 67,
-    "faceOff": 67,
-    "pass": 65,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3025590.png&w=200&h=145",
-    "position": 1,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 1500000,
-    "height": "5\"10'"
-  },
-  {
-    "id": 413,
     "team": 11,
     "name": "Evan Bouchard",
     "age": 20,
@@ -6840,7 +6290,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 414,
     "team": 11,
     "name": "Jason Garrison",
     "age": 35,
@@ -6858,7 +6307,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 416,
     "team": 11,
     "name": "Joseph Gambardella",
     "age": 26,
@@ -6876,7 +6324,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 417,
     "team": 11,
     "name": "Josh Currie",
     "age": 27,
@@ -6894,7 +6341,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 418,
     "team": 11,
     "name": "Jujhar Khaira",
     "age": 25,
@@ -6912,7 +6358,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 419,
     "team": 11,
     "name": "Kailer Yamamoto",
     "age": 21,
@@ -6930,7 +6375,6 @@
     "height": "5\"8'"
   },
   {
-    "id": 420,
     "team": 26,
     "name": "Kevin Gravel",
     "age": 27,
@@ -6948,7 +6392,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 421,
     "team": 11,
     "name": "Kris Russell",
     "age": 32,
@@ -6966,7 +6409,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 422,
     "team": 11,
     "name": "Kyle Brodziak",
     "age": 35,
@@ -6984,7 +6426,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 423,
     "team": 11,
     "name": "Leon Draisaitl",
     "age": 24,
@@ -7002,7 +6443,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 424,
     "team": 11,
     "name": "Matt Benning",
     "age": 25,
@@ -7020,7 +6460,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 425,
     "team": 11,
     "name": "Mikko Koskinen",
     "age": 31,
@@ -7038,7 +6477,6 @@
     "height": "6\"7'"
   },
   {
-    "id": 426,
     "team": 11,
     "name": "Milan Lucic",
     "age": 31,
@@ -7056,7 +6494,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 427,
     "team": 11,
     "name": "Oscar Klefbom",
     "age": 26,
@@ -7074,7 +6511,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 428,
     "team": 11,
     "name": "Patrick Russell",
     "age": 27,
@@ -7092,7 +6528,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 429,
     "team": 11,
     "name": "Ryan Nugent-Hopkins",
     "age": 26,
@@ -7110,7 +6545,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 431,
     "team": 11,
     "name": "Ryan Strome",
     "age": 26,
@@ -7128,7 +6562,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 432,
     "team": 11,
     "name": "Sam Gagner",
     "age": 30,
@@ -7146,7 +6579,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 434,
     "team": 11,
     "name": "Ty Rattie",
     "age": 26,
@@ -7164,25 +6596,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 435,
-    "team": 11,
-    "name": "Valentin Zykov",
-    "age": 24,
-    "number": 73,
-    "off": 61,
-    "def": 64,
-    "faceOff": 61,
-    "pass": 62,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3042001.png&w=200&h=145",
-    "position": 1,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 675000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 436,
     "team": 11,
     "name": "Zack Kassian",
     "age": 29,
@@ -7200,7 +6613,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 437,
     "team": 12,
     "name": "Aaron Ekblad",
     "age": 23,
@@ -7218,7 +6630,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 438,
     "team": 12,
     "name": "Aleksander Barkov",
     "age": 24,
@@ -7236,25 +6647,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 439,
-    "team": 12,
-    "name": "Alexander Petrovic",
-    "age": 27,
-    "number": 6,
-    "off": 60,
-    "def": 63,
-    "faceOff": 53,
-    "pass": 61,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 0,
-    "salary": 1000000,
-    "height": "6\"4'"
-  },
-  {
-    "id": 440,
     "team": 12,
     "name": "Anthony Greco",
     "age": 26,
@@ -7272,7 +6664,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 441,
     "team": 12,
     "name": "Bogdan Kiselevich",
     "age": 29,
@@ -7290,7 +6681,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 442,
     "team": 12,
     "name": "Brady Keeper",
     "age": 23,
@@ -7308,25 +6698,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 443,
-    "team": 1,
-    "name": "Chris Wideman",
-    "age": 30,
-    "number": 6,
-    "off": 60,
-    "def": 63,
-    "faceOff": 53,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2334912.png&w=200&h=145",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 700000,
-    "height": "5\"10'"
-  },
-  {
-    "id": 444,
     "team": 12,
     "name": "Colton Sceviour",
     "age": 30,
@@ -7344,7 +6715,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 446,
     "team": 12,
     "name": "Derek MacKenzie",
     "age": 38,
@@ -7362,7 +6732,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 448,
     "team": 12,
     "name": "Dryden Hunt",
     "age": 24,
@@ -7380,7 +6749,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 449,
     "team": 12,
     "name": "Evgenii Dadonov",
     "age": 30,
@@ -7398,7 +6766,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 450,
     "team": 12,
     "name": "Frank Vatrano",
     "age": 25,
@@ -7416,7 +6783,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 451,
     "team": 12,
     "name": "Henrik Borgstrm",
     "age": 22,
@@ -7434,7 +6800,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 452,
     "team": 12,
     "name": "Ian McCoshen",
     "age": 24,
@@ -7452,7 +6817,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 453,
     "team": 12,
     "name": "Jacob MacDonald",
     "age": 26,
@@ -7470,7 +6834,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 454,
     "team": 12,
     "name": "James Reimer",
     "age": 31,
@@ -7488,7 +6851,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 456,
     "team": 12,
     "name": "Jared McCann",
     "age": 23,
@@ -7506,7 +6868,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 457,
     "team": 12,
     "name": "Jayce Hawryluk",
     "age": 24,
@@ -7524,7 +6885,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 458,
     "team": 12,
     "name": "Jonathan Huberdeau",
     "age": 26,
@@ -7542,7 +6902,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 459,
     "team": 12,
     "name": "Josh Brown",
     "age": 26,
@@ -7560,7 +6919,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 461,
     "team": 12,
     "name": "Keith Yandle",
     "age": 33,
@@ -7578,7 +6936,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 462,
     "team": 12,
     "name": "MacKenzie Weegar",
     "age": 26,
@@ -7596,7 +6953,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 463,
     "team": 12,
     "name": "Mark Pysyk",
     "age": 28,
@@ -7614,7 +6970,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 465,
     "team": 12,
     "name": "Michael Hutchinson",
     "age": 29,
@@ -7632,7 +6987,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 467,
     "team": 12,
     "name": "Mike Hoffman",
     "age": 30,
@@ -7650,7 +7004,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 468,
     "team": 12,
     "name": "Mike Matheson",
     "age": 25,
@@ -7668,7 +7021,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 469,
     "team": 12,
     "name": "Nick Bjugstad",
     "age": 27,
@@ -7686,7 +7038,6 @@
     "height": "6\"6'"
   },
   {
-    "id": 471,
     "team": 12,
     "name": "Riley Stillman",
     "age": 21,
@@ -7704,7 +7055,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 472,
     "team": 12,
     "name": "Roberto Luongo",
     "age": 40,
@@ -7722,7 +7072,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 473,
     "team": 12,
     "name": "Sam Montembeault",
     "age": 23,
@@ -7740,7 +7089,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 475,
     "team": 12,
     "name": "Vincent Trocheck",
     "age": 26,
@@ -7758,7 +7106,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 477,
     "team": 13,
     "name": "Alec Martinez",
     "age": 32,
@@ -7776,7 +7123,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 478,
     "team": 13,
     "name": "Alex Iafallo",
     "age": 26,
@@ -7794,7 +7140,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 479,
     "team": 13,
     "name": "Anze Kopitar",
     "age": 32,
@@ -7812,7 +7157,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 480,
     "team": 13,
     "name": "Austin Wagner",
     "age": 22,
@@ -7830,7 +7174,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 481,
     "team": 13,
     "name": "Blake Lizotte",
     "age": 22,
@@ -7848,7 +7191,6 @@
     "height": "5\"7'"
   },
   {
-    "id": 482,
     "team": 30,
     "name": "Brendan Leipsic",
     "age": 25,
@@ -7866,7 +7208,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 483,
     "team": 13,
     "name": "Calvin Petersen",
     "age": 25,
@@ -7884,7 +7225,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 484,
     "team": 13,
     "name": "Carl Grundstrom",
     "age": 22,
@@ -7902,7 +7242,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 485,
     "team": 13,
     "name": "Carl Hagelin",
     "age": 31,
@@ -7920,7 +7259,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 486,
     "team": 13,
     "name": "Daniel Brickley",
     "age": 24,
@@ -7938,7 +7276,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 487,
     "team": 13,
     "name": "Derek Forbort",
     "age": 27,
@@ -7956,7 +7293,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 489,
     "team": 13,
     "name": "Drew Doughty",
     "age": 30,
@@ -7974,7 +7310,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 490,
     "team": 13,
     "name": "Dustin Brown",
     "age": 35,
@@ -7992,7 +7327,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 491,
     "team": 13,
     "name": "Ilya Kovalchuk",
     "age": 36,
@@ -8010,7 +7344,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 492,
     "team": 13,
     "name": "Jack Campbell",
     "age": 28,
@@ -8028,7 +7361,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 493,
     "team": 13,
     "name": "Jake Muzzin",
     "age": 30,
@@ -8046,7 +7378,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 494,
     "team": 13,
     "name": "Jaret Anderson-Dolan",
     "age": 20,
@@ -8064,7 +7395,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 495,
     "team": 13,
     "name": "Jeff Carter",
     "age": 35,
@@ -8082,7 +7412,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 496,
     "team": 13,
     "name": "Jonathan Quick",
     "age": 34,
@@ -8100,7 +7429,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 497,
     "team": 23,
     "name": "Jonny Brodzinski",
     "age": 26,
@@ -8118,7 +7446,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 498,
     "team": 13,
     "name": "Kurtis MacDermid",
     "age": 25,
@@ -8136,7 +7463,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 499,
     "team": 13,
     "name": "Kyle Clifford",
     "age": 29,
@@ -8154,7 +7480,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 500,
     "team": 13,
     "name": "Matt Luff",
     "age": 22,
@@ -8172,7 +7497,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 501,
     "team": 13,
     "name": "Matt Roy",
     "age": 24,
@@ -8190,7 +7514,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 502,
     "team": 13,
     "name": "Michael Amadio",
     "age": 23,
@@ -8208,7 +7531,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 503,
     "team": 13,
     "name": "Nate Thompson",
     "age": 35,
@@ -8226,7 +7548,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 504,
     "team": 13,
     "name": "Nikita Scherbak",
     "age": 24,
@@ -8244,25 +7565,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 505,
-    "team": 28,
-    "name": "Oscar Fantenberg",
-    "age": 28,
-    "number": 7,
-    "off": 62,
-    "def": 67,
-    "faceOff": 53,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4217973.png&w=200&h=145",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 850000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 506,
     "team": 13,
     "name": "Paul Ladue",
     "age": 27,
@@ -8280,7 +7582,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 507,
     "team": 13,
     "name": "Peter Budaj",
     "age": 37,
@@ -8298,7 +7599,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 508,
     "team": 13,
     "name": "Sean Walker",
     "age": 25,
@@ -8316,7 +7616,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 509,
     "team": 13,
     "name": "Sheldon Rempal",
     "age": 24,
@@ -8334,7 +7633,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 510,
     "team": 13,
     "name": "Tanner Pearson",
     "age": 27,
@@ -8352,7 +7650,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 511,
     "team": 13,
     "name": "Trevor Lewis",
     "age": 33,
@@ -8370,7 +7667,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 512,
     "team": 13,
     "name": "Tyler Toffoli",
     "age": 27,
@@ -8388,7 +7684,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 513,
     "team": 14,
     "name": "Alex Stalock",
     "age": 32,
@@ -8406,7 +7701,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 514,
     "team": 29,
     "name": "Anthony Bitetto",
     "age": 29,
@@ -8424,7 +7718,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 515,
     "team": 14,
     "name": "Brad Hunt",
     "age": 31,
@@ -8442,25 +7735,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 516,
-    "team": 14,
-    "name": "Charlie Coyle",
-    "age": 27,
-    "number": 3,
-    "off": 83,
-    "def": 86,
-    "faceOff": 70,
-    "pass": 69,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2555315.png&w=200&h=145",
-    "position": 0,
-    "positioning": 60,
-    "reflexes": 60,
-    "years": 1,
-    "salary": 3200000,
-    "height": "6\"3'"
-  },
-  {
-    "id": 517,
     "team": 14,
     "name": "Devan Dubnyk",
     "age": 33,
@@ -8478,7 +7752,6 @@
     "height": "6\"6'"
   },
   {
-    "id": 519,
     "team": 14,
     "name": "Eric Staal",
     "age": 35,
@@ -8496,7 +7769,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 520,
     "team": 14,
     "name": "Greg Pateryn",
     "age": 29,
@@ -8514,7 +7786,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 521,
     "team": 14,
     "name": "J.T. Brown",
     "age": 29,
@@ -8532,7 +7803,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 522,
     "team": 14,
     "name": "Jared Spurgeon",
     "age": 30,
@@ -8550,7 +7820,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 523,
     "team": 14,
     "name": "Jason Zucker",
     "age": 28,
@@ -8568,7 +7837,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 525,
     "team": 14,
     "name": "Jonas Brodin",
     "age": 26,
@@ -8586,7 +7854,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 526,
     "team": 14,
     "name": "Jordan Greenway",
     "age": 22,
@@ -8604,7 +7871,6 @@
     "height": "6\"6'"
   },
   {
-    "id": 528,
     "team": 14,
     "name": "Kyle Rau",
     "age": 27,
@@ -8622,7 +7888,6 @@
     "height": "5\"8'"
   },
   {
-    "id": 529,
     "team": 14,
     "name": "Louie Belpedio",
     "age": 23,
@@ -8640,7 +7905,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 530,
     "team": 14,
     "name": "Luke Kunin",
     "age": 22,
@@ -8658,7 +7922,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 531,
     "team": 14,
     "name": "Marcus Foligno",
     "age": 28,
@@ -8676,7 +7939,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 532,
     "team": 14,
     "name": "Mathew Dumba",
     "age": 25,
@@ -8694,7 +7956,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 533,
     "team": 14,
     "name": "Matt Bartkowski",
     "age": 31,
@@ -8712,7 +7973,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 535,
     "team": 14,
     "name": "Mikael Granlund",
     "age": 27,
@@ -8730,7 +7990,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 536,
     "team": 14,
     "name": "Mikko Koivu",
     "age": 36,
@@ -8748,7 +8007,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 537,
     "team": 21,
     "name": "Nate Prosser",
     "age": 33,
@@ -8766,7 +8024,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 538,
     "team": 14,
     "name": "Nick Seeler",
     "age": 26,
@@ -8784,7 +8041,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 539,
     "team": 14,
     "name": "Nico Sturm",
     "age": 24,
@@ -8802,61 +8058,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 540,
-    "team": 14,
-    "name": "Nino Niederreiter",
-    "age": 27,
-    "number": 22,
-    "off": 87,
-    "def": 87,
-    "faceOff": 67,
-    "pass": 75,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5511.png&w=200&h=145",
-    "position": 2,
-    "positioning": 57,
-    "reflexes": 57,
-    "years": 3,
-    "salary": 5250000,
-    "height": "6\"2'"
-  },
-  {
-    "id": 541,
-    "team": 26,
-    "name": "Pontus Aberg",
-    "age": 26,
-    "number": 26,
-    "off": 68,
-    "def": 66,
-    "faceOff": 59,
-    "pass": 65,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3069396.png&w=200&h=145",
-    "position": 1,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 700000,
-    "height": "5\"11'"
-  },
-  {
-    "id": 542,
-    "team": 14,
-    "name": "Ryan Donato",
-    "age": 23,
-    "number": 6,
-    "off": 65,
-    "def": 64,
-    "faceOff": 66,
-    "pass": 62,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3115033.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 2,
-    "salary": 1950000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 543,
     "team": 14,
     "name": "Ryan Murphy",
     "age": 26,
@@ -8874,7 +8075,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 544,
     "team": 14,
     "name": "Ryan Suter",
     "age": 35,
@@ -8892,25 +8092,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 545,
-    "team": 14,
-    "name": "Victor Rask",
-    "age": 26,
-    "number": 49,
-    "off": 63,
-    "def": 66,
-    "faceOff": 70,
-    "pass": 63,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2563085.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 3,
-    "salary": 4000000,
-    "height": "6\"2'"
-  },
-  {
-    "id": 546,
     "team": 14,
     "name": "Zach Parise",
     "age": 35,
@@ -8928,7 +8109,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 547,
     "team": 15,
     "name": "Andrew Shaw",
     "age": 28,
@@ -8946,7 +8126,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 548,
     "team": 15,
     "name": "Artturi Lehkonen",
     "age": 24,
@@ -8964,7 +8143,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 549,
     "team": 15,
     "name": "Brendan Gallagher",
     "age": 27,
@@ -8982,7 +8160,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 550,
     "team": 15,
     "name": "Brett Kulak",
     "age": 26,
@@ -9000,7 +8177,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 551,
     "team": 15,
     "name": "Carey Price",
     "age": 32,
@@ -9018,7 +8194,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 552,
     "team": 15,
     "name": "Charles Hudon",
     "age": 25,
@@ -9036,7 +8211,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 553,
     "team": 15,
     "name": "Charlie Lindgren",
     "age": 26,
@@ -9054,7 +8228,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 554,
     "team": 15,
     "name": "Christian Folin",
     "age": 28,
@@ -9072,7 +8245,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 555,
     "team": 15,
     "name": "Dale Weise",
     "age": 31,
@@ -9090,7 +8262,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 557,
     "team": 15,
     "name": "Jeff Petry",
     "age": 32,
@@ -9108,7 +8279,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 558,
     "team": 15,
     "name": "Jesperi Kotkaniemi",
     "age": 19,
@@ -9126,7 +8296,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 559,
     "team": 15,
     "name": "Joel Armia",
     "age": 26,
@@ -9144,7 +8313,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 560,
     "team": 15,
     "name": "Jonathan Drouin",
     "age": 24,
@@ -9162,25 +8330,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 561,
-    "team": 15,
-    "name": "Jordan Weal",
-    "age": 27,
-    "number": 43,
-    "off": 62,
-    "def": 65,
-    "faceOff": 71,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5557.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 2,
-    "salary": 1400000,
-    "height": "5\"10'"
-  },
-  {
-    "id": 562,
     "team": 28,
     "name": "Jordie Benn",
     "age": 32,
@@ -9198,7 +8347,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 563,
     "team": 15,
     "name": "Karl Alzner",
     "age": 31,
@@ -9216,7 +8364,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 564,
     "team": 15,
     "name": "Kenny Agostino",
     "age": 27,
@@ -9234,7 +8381,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 565,
     "team": 15,
     "name": "Matthew Peca",
     "age": 26,
@@ -9252,7 +8398,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 566,
     "team": 15,
     "name": "Max Domi",
     "age": 24,
@@ -9270,7 +8415,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 567,
     "team": 15,
     "name": "Michael Chaput",
     "age": 27,
@@ -9288,7 +8432,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 568,
     "team": 15,
     "name": "Mike Reilly",
     "age": 26,
@@ -9306,25 +8449,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 569,
-    "team": 15,
-    "name": "Nate Thompson",
-    "age": 35,
-    "number": 21,
-    "off": 66,
-    "def": 71,
-    "faceOff": 77,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2688.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 1000000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 570,
     "team": 15,
     "name": "Nicolas Deslauriers",
     "age": 28,
@@ -9342,7 +8466,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 571,
     "team": 15,
     "name": "Noah Juulsen",
     "age": 22,
@@ -9360,7 +8483,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 572,
     "team": 15,
     "name": "Paul Byron",
     "age": 30,
@@ -9378,7 +8500,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 573,
     "team": 15,
     "name": "Phillip Danault",
     "age": 26,
@@ -9396,7 +8517,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 574,
     "team": 15,
     "name": "Ryan Poehling",
     "age": 21,
@@ -9414,7 +8534,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 575,
     "team": 15,
     "name": "Shea Weber",
     "age": 34,
@@ -9432,7 +8551,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 576,
     "team": 15,
     "name": "Tomas Plekanec",
     "age": 37,
@@ -9450,7 +8568,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 577,
     "team": 15,
     "name": "Tomas Tatar",
     "age": 29,
@@ -9468,7 +8585,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 578,
     "team": 15,
     "name": "Victor Mete",
     "age": 21,
@@ -9486,7 +8602,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 579,
     "team": 15,
     "name": "Xavier Ouellet",
     "age": 26,
@@ -9504,25 +8619,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 580,
-    "team": 29,
-    "name": "Anthony Bitetto",
-    "age": 29,
-    "number": 2,
-    "off": 61,
-    "def": 64,
-    "faceOff": 53,
-    "pass": 60,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3067505.png&w=200&h=145",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 700000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 581,
     "team": 16,
     "name": "Anthony Richard",
     "age": 23,
@@ -9540,7 +8636,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 582,
     "team": 16,
     "name": "Austin Watson",
     "age": 28,
@@ -9558,7 +8653,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 584,
     "team": 16,
     "name": "Calle Jarnkrok",
     "age": 28,
@@ -9576,7 +8670,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 586,
     "team": 16,
     "name": "Colin Blackwell",
     "age": 26,
@@ -9594,7 +8687,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 587,
     "team": 16,
     "name": "Colton Sissons",
     "age": 26,
@@ -9612,7 +8704,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 588,
     "team": 16,
     "name": "Craig Smith",
     "age": 30,
@@ -9630,7 +8721,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 589,
     "team": 16,
     "name": "Dan Hamhuis",
     "age": 37,
@@ -9648,7 +8738,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 590,
     "team": 16,
     "name": "Dante Fabbro",
     "age": 21,
@@ -9666,7 +8755,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 591,
     "team": 16,
     "name": "Eeli Tolvanen",
     "age": 20,
@@ -9684,7 +8772,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 592,
     "team": 16,
     "name": "Filip Forsberg",
     "age": 25,
@@ -9702,7 +8789,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 593,
     "team": 16,
     "name": "Frederick Gaudreau",
     "age": 26,
@@ -9720,7 +8806,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 594,
     "team": 16,
     "name": "Juuse Saros",
     "age": 24,
@@ -9738,7 +8823,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 596,
     "team": 16,
     "name": "Kyle Turris",
     "age": 30,
@@ -9756,7 +8840,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 597,
     "team": 16,
     "name": "Matt Donovan",
     "age": 29,
@@ -9774,7 +8857,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 598,
     "team": 16,
     "name": "Matt Irwin",
     "age": 32,
@@ -9792,7 +8874,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 599,
     "team": 16,
     "name": "Mattias Ekholm",
     "age": 29,
@@ -9810,7 +8891,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 600,
     "team": 16,
     "name": "Miikka Salomaki",
     "age": 26,
@@ -9828,25 +8908,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 601,
-    "team": 16,
-    "name": "Mikael Granlund",
-    "age": 27,
-    "number": 64,
-    "off": 85,
-    "def": 86,
-    "faceOff": 70,
-    "pass": 87,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5831.png&w=200&h=145",
-    "position": 0,
-    "positioning": 52,
-    "reflexes": 52,
-    "years": 1,
-    "salary": 5750000,
-    "height": "5\"10'"
-  },
-  {
-    "id": 602,
     "team": 16,
     "name": "Nick Bonino",
     "age": 31,
@@ -9864,7 +8925,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 603,
     "team": 16,
     "name": "P.K. Subban",
     "age": 30,
@@ -9882,7 +8942,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 604,
     "team": 16,
     "name": "Pekka Rinne",
     "age": 37,
@@ -9900,25 +8959,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 605,
-    "team": 19,
-    "name": "Phillip Di Giuseppe",
-    "age": 26,
-    "number": 16,
-    "off": 62,
-    "def": 65,
-    "faceOff": 71,
-    "pass": 62,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "position": 1,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 700000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 606,
     "team": 16,
     "name": "Rem Pitlick",
     "age": 22,
@@ -9936,7 +8976,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 608,
     "team": 16,
     "name": "Roman Josi",
     "age": 29,
@@ -9954,7 +8993,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 609,
     "team": 16,
     "name": "Ryan Ellis",
     "age": 29,
@@ -9972,7 +9010,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 610,
     "team": 14,
     "name": "Ryan Hartman",
     "age": 25,
@@ -9990,7 +9027,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 611,
     "team": 16,
     "name": "Ryan Johansen",
     "age": 27,
@@ -10008,7 +9044,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 612,
     "team": 16,
     "name": "Viktor Arvidsson",
     "age": 26,
@@ -10026,7 +9061,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 613,
     "team": 17,
     "name": "Wayne Simmonds",
     "age": 31,
@@ -10044,7 +9078,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 614,
     "team": 16,
     "name": "Yannick Weber",
     "age": 31,
@@ -10062,7 +9095,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 616,
     "team": 17,
     "name": "Andy Greene",
     "age": 37,
@@ -10080,7 +9112,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 618,
     "team": 17,
     "name": "Blake Coleman",
     "age": 28,
@@ -10098,7 +9129,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 619,
     "team": 1,
     "name": "Blake Pietila",
     "age": 26,
@@ -10116,7 +9146,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 620,
     "team": 17,
     "name": "Brandon Gignac",
     "age": 22,
@@ -10134,7 +9163,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 621,
     "team": 17,
     "name": "Brett Seney",
     "age": 23,
@@ -10152,7 +9180,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 623,
     "team": 17,
     "name": "Colton White",
     "age": 22,
@@ -10170,25 +9197,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 624,
-    "team": 17,
-    "name": "Connor Carrick",
-    "age": 25,
-    "number": 5,
-    "off": 62,
-    "def": 64,
-    "faceOff": 53,
-    "pass": 62,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3067849.png&w=200&h=145",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 2,
-    "salary": 1500000,
-    "height": "5\"11'"
-  },
-  {
-    "id": 625,
     "team": 17,
     "name": "Cory Schneider",
     "age": 33,
@@ -10206,7 +9214,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 626,
     "team": 17,
     "name": "Damon Severson",
     "age": 25,
@@ -10224,7 +9231,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 628,
     "team": 17,
     "name": "Egor Yakovlev",
     "age": 28,
@@ -10242,7 +9248,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 631,
     "team": 3,
     "name": "Jean-Sebastien Dea",
     "age": 25,
@@ -10260,7 +9265,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 632,
     "team": 17,
     "name": "Jesper Bratt",
     "age": 21,
@@ -10278,7 +9282,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 633,
     "team": 17,
     "name": "Joey Anderson",
     "age": 21,
@@ -10296,7 +9299,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 634,
     "team": 17,
     "name": "John Quenneville",
     "age": 23,
@@ -10314,7 +9316,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 635,
     "team": 17,
     "name": "Joshua Jacobs",
     "age": 23,
@@ -10332,7 +9333,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 636,
     "team": 15,
     "name": "Keith Kinkaid",
     "age": 30,
@@ -10350,25 +9350,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 637,
-    "team": 17,
-    "name": "Kenny Agostino",
-    "age": 27,
-    "number": 17,
-    "off": 64,
-    "def": 66,
-    "faceOff": 64,
-    "pass": 66,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2591153.png&w=200&h=145",
-    "position": 1,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 0,
-    "salary": 1000000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 638,
     "team": 17,
     "name": "Kevin Rooney",
     "age": 26,
@@ -10386,7 +9367,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 639,
     "team": 21,
     "name": "Kurtis Gabriel",
     "age": 26,
@@ -10404,7 +9384,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 640,
     "team": 17,
     "name": "Kyle Palmieri",
     "age": 28,
@@ -10422,7 +9401,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 641,
     "team": 17,
     "name": "MacKenzie Blackwood",
     "age": 23,
@@ -10440,25 +9418,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 642,
-    "team": 3,
-    "name": "Marcus Johansson",
-    "age": 29,
-    "number": 90,
-    "off": 82,
-    "def": 86,
-    "faceOff": 63,
-    "pass": 67,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5714.png&w=200&h=145",
-    "position": 0,
-    "positioning": 61,
-    "reflexes": 61,
-    "years": 2,
-    "salary": 4500000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 643,
     "team": 17,
     "name": "Michael McLeod",
     "age": 21,
@@ -10476,7 +9435,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 644,
     "team": 17,
     "name": "Miles Wood",
     "age": 24,
@@ -10494,7 +9452,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 645,
     "team": 17,
     "name": "Mirco Mueller",
     "age": 24,
@@ -10512,7 +9469,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 646,
     "team": 17,
     "name": "Nathan Bastian",
     "age": 22,
@@ -10530,7 +9486,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 647,
     "team": 24,
     "name": "Nick Lappin",
     "age": 27,
@@ -10548,7 +9503,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 648,
     "team": 17,
     "name": "Nico Hischier",
     "age": 21,
@@ -10566,25 +9520,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 650,
-    "team": 17,
-    "name": "Ryan Murphy",
-    "age": 26,
-    "number": 0,
-    "off": 60,
-    "def": 64,
-    "faceOff": 53,
-    "pass": 60,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2562621.png&w=200&h=145",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 0,
-    "salary": 1000000,
-    "height": "5\"11'"
-  },
-  {
-    "id": 651,
     "team": 17,
     "name": "Sami Vatanen",
     "age": 28,
@@ -10602,7 +9537,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 653,
     "team": 17,
     "name": "Steven Santini",
     "age": 24,
@@ -10620,7 +9554,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 654,
     "team": 17,
     "name": "Taylor Hall",
     "age": 28,
@@ -10638,7 +9571,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 655,
     "team": 17,
     "name": "Travis Zajac",
     "age": 34,
@@ -10656,7 +9588,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 656,
     "team": 17,
     "name": "Will Butcher",
     "age": 25,
@@ -10674,7 +9605,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 657,
     "team": 18,
     "name": "Adam Pelech",
     "age": 25,
@@ -10692,7 +9622,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 658,
     "team": 18,
     "name": "Anders Lee",
     "age": 29,
@@ -10710,7 +9639,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 659,
     "team": 18,
     "name": "Andrew Ladd",
     "age": 34,
@@ -10728,7 +9656,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 661,
     "team": 18,
     "name": "Brock Nelson",
     "age": 28,
@@ -10746,7 +9673,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 662,
     "team": 18,
     "name": "Cal Clutterbuck",
     "age": 32,
@@ -10764,7 +9690,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 663,
     "team": 18,
     "name": "Casey Cizikas",
     "age": 28,
@@ -10782,7 +9707,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 664,
     "team": 18,
     "name": "Christopher Gibson",
     "age": 27,
@@ -10800,7 +9724,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 665,
     "team": 18,
     "name": "Devon Toews",
     "age": 25,
@@ -10818,7 +9741,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 666,
     "team": 18,
     "name": "Johnny Boychuk",
     "age": 36,
@@ -10836,7 +9758,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 667,
     "team": 18,
     "name": "Jordan Eberle",
     "age": 29,
@@ -10854,7 +9775,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 668,
     "team": 18,
     "name": "Josh Bailey",
     "age": 30,
@@ -10872,7 +9792,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 670,
     "team": 18,
     "name": "Leo Komarov",
     "age": 33,
@@ -10890,7 +9809,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 672,
     "team": 18,
     "name": "Mathew Barzal",
     "age": 22,
@@ -10908,7 +9826,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 673,
     "team": 18,
     "name": "Matt Martin",
     "age": 30,
@@ -10926,7 +9843,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 675,
     "team": 18,
     "name": "Nick Leddy",
     "age": 28,
@@ -10944,7 +9860,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 676,
     "team": 7,
     "name": "Robin Lehner",
     "age": 28,
@@ -10962,7 +9877,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 677,
     "team": 18,
     "name": "Ross Johnston",
     "age": 25,
@@ -10980,7 +9894,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 678,
     "team": 18,
     "name": "Ryan Pulock",
     "age": 25,
@@ -10998,7 +9911,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 679,
     "team": 18,
     "name": "Scott Mayfield",
     "age": 27,
@@ -11016,7 +9928,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 680,
     "team": 18,
     "name": "Stephen Gionta",
     "age": 36,
@@ -11034,7 +9945,6 @@
     "height": "5\"7'"
   },
   {
-    "id": 681,
     "team": 18,
     "name": "Tanner Fritz",
     "age": 28,
@@ -11052,7 +9962,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 682,
     "team": 18,
     "name": "Thomas Greiss",
     "age": 34,
@@ -11070,7 +9979,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 683,
     "team": 18,
     "name": "Thomas Hickey",
     "age": 30,
@@ -11088,7 +9996,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 684,
     "team": 18,
     "name": "Tom Kuhnhackl",
     "age": 28,
@@ -11106,7 +10013,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 685,
     "team": 10,
     "name": "Valtteri Filppula",
     "age": 35,
@@ -11124,7 +10030,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 687,
     "team": 19,
     "name": "Alexandar Georgiev",
     "age": 23,
@@ -11142,7 +10047,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 689,
     "team": 19,
     "name": "Boo Nieves",
     "age": 26,
@@ -11160,7 +10064,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 690,
     "team": 19,
     "name": "Brady Skjei",
     "age": 25,
@@ -11178,7 +10081,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 692,
     "team": 19,
     "name": "Brendan Smith",
     "age": 30,
@@ -11196,7 +10098,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 693,
     "team": 19,
     "name": "Brett Howden",
     "age": 21,
@@ -11214,7 +10115,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 694,
     "team": 19,
     "name": "Chris Kreider",
     "age": 28,
@@ -11232,7 +10132,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 697,
     "team": 19,
     "name": "Filip Chytil",
     "age": 20,
@@ -11250,7 +10149,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 699,
     "team": 19,
     "name": "Henrik Lundqvist",
     "age": 37,
@@ -11268,7 +10166,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 700,
     "team": 19,
     "name": "Jesper Fast",
     "age": 28,
@@ -11286,7 +10183,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 701,
     "team": 19,
     "name": "Jimmy Vesey",
     "age": 26,
@@ -11304,7 +10200,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 702,
     "team": 3,
     "name": "John Gilmour",
     "age": 26,
@@ -11322,7 +10217,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 703,
     "team": 19,
     "name": "Kevin Hayes",
     "age": 27,
@@ -11340,7 +10234,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 705,
     "team": 19,
     "name": "Lias Andersson",
     "age": 21,
@@ -11358,7 +10251,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 706,
     "team": 19,
     "name": "Libor Hajek",
     "age": 21,
@@ -11376,7 +10268,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 707,
     "team": 19,
     "name": "Marc Staal",
     "age": 33,
@@ -11394,25 +10285,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 708,
-    "team": 19,
-    "name": "Mats Zuccarello",
-    "age": 32,
-    "number": 36,
-    "off": 85,
-    "def": 88,
-    "faceOff": 53,
-    "pass": 68,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5560.png&w=200&h=145",
-    "position": 1,
-    "positioning": 64,
-    "reflexes": 64,
-    "years": 0,
-    "salary": 1000000,
-    "height": "5\"8'"
-  },
-  {
-    "id": 709,
     "team": 19,
     "name": "Matt Beleskey",
     "age": 31,
@@ -11430,7 +10302,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 710,
     "team": 19,
     "name": "Mika Zibanejad",
     "age": 26,
@@ -11448,7 +10319,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 711,
     "team": 29,
     "name": "Neal Pionk",
     "age": 24,
@@ -11466,7 +10336,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 712,
     "team": 19,
     "name": "Pavel Buchnevich",
     "age": 24,
@@ -11484,7 +10353,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 713,
     "team": 19,
     "name": "Ryan Lindgren",
     "age": 21,
@@ -11502,25 +10370,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 715,
-    "team": 19,
-    "name": "Ryan Strome",
-    "age": 26,
-    "number": 16,
-    "off": 62,
-    "def": 65,
-    "faceOff": 71,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2562636.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 3100000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 716,
     "team": 19,
     "name": "Steven Fogarty",
     "age": 26,
@@ -11538,7 +10387,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 717,
     "team": 19,
     "name": "Timothy Gettinger",
     "age": 21,
@@ -11556,7 +10404,6 @@
     "height": "6\"6'"
   },
   {
-    "id": 719,
     "team": 19,
     "name": "Vladislav Namestnikov",
     "age": 27,
@@ -11574,7 +10421,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 720,
     "team": 20,
     "name": "Alex Formenton",
     "age": 20,
@@ -11592,7 +10438,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 721,
     "team": 20,
     "name": "Anders Nilsson",
     "age": 29,
@@ -11610,7 +10455,6 @@
     "height": "6\"6'"
   },
   {
-    "id": 722,
     "team": 20,
     "name": "Andreas Englund",
     "age": 24,
@@ -11628,25 +10472,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 723,
-    "team": 20,
-    "name": "Anthony Duclair",
-    "age": 24,
-    "number": 10,
-    "off": 68,
-    "def": 68,
-    "faceOff": 57,
-    "pass": 65,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3042086.png&w=200&h=145",
-    "position": 1,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 1650000,
-    "height": "5\"11'"
-  },
-  {
-    "id": 724,
     "team": 20,
     "name": "Ben Harpur",
     "age": 25,
@@ -11664,7 +10489,6 @@
     "height": "6\"6'"
   },
   {
-    "id": 725,
     "team": 20,
     "name": "Bobby Ryan",
     "age": 32,
@@ -11682,7 +10506,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 726,
     "team": 20,
     "name": "Brady Tkachuk",
     "age": 20,
@@ -11700,25 +10523,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 727,
-    "team": 4,
-    "name": "Brian Gibbons",
-    "age": 31,
-    "number": 17,
-    "off": 64,
-    "def": 66,
-    "faceOff": 68,
-    "pass": 62,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2304504.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 725000,
-    "height": "5\"8'"
-  },
-  {
-    "id": 728,
     "team": 20,
     "name": "Chris Tierney",
     "age": 25,
@@ -11736,25 +10540,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 729,
-    "team": 1,
-    "name": "Chris Wideman",
-    "age": 30,
-    "number": 6,
-    "off": 60,
-    "def": 63,
-    "faceOff": 53,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2334912.png&w=200&h=145",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 700000,
-    "height": "5\"10'"
-  },
-  {
-    "id": 730,
     "team": 20,
     "name": "Christian Jaros",
     "age": 23,
@@ -11772,7 +10557,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 731,
     "team": 20,
     "name": "Christian Wolanin",
     "age": 24,
@@ -11790,7 +10574,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 732,
     "team": 20,
     "name": "Cody Ceci",
     "age": 26,
@@ -11808,7 +10591,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 733,
     "team": 20,
     "name": "Cody Goloubef",
     "age": 30,
@@ -11826,7 +10608,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 735,
     "team": 20,
     "name": "Craig Anderson",
     "age": 38,
@@ -11844,7 +10625,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 737,
     "team": 20,
     "name": "Drake Batherson",
     "age": 21,
@@ -11862,7 +10642,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 738,
     "team": 20,
     "name": "Dylan DeMelo",
     "age": 26,
@@ -11880,7 +10659,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 739,
     "team": 20,
     "name": "Erik Brannstrom",
     "age": 20,
@@ -11898,7 +10676,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 741,
     "team": 20,
     "name": "Filip Chlapik",
     "age": 22,
@@ -11916,7 +10693,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 742,
     "team": 20,
     "name": "Jack Rodewald",
     "age": 25,
@@ -11934,7 +10710,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 743,
     "team": 20,
     "name": "Jean-Gabriel Pageau",
     "age": 27,
@@ -11952,7 +10727,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 744,
     "team": 20,
     "name": "Joey Daccord",
     "age": 23,
@@ -11970,7 +10744,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 746,
     "team": 20,
     "name": "Logan Brown",
     "age": 21,
@@ -11988,7 +10761,6 @@
     "height": "6\"6'"
   },
   {
-    "id": 747,
     "team": 20,
     "name": "Magnus Paajarvi",
     "age": 28,
@@ -12006,7 +10778,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 748,
     "team": 20,
     "name": "Marcus Hogberg",
     "age": 25,
@@ -12024,7 +10795,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 749,
     "team": 20,
     "name": "Mark Borowiecki",
     "age": 30,
@@ -12042,7 +10812,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 750,
     "team": 20,
     "name": "Mark Stone",
     "age": 27,
@@ -12060,25 +10829,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 751,
-    "team": 16,
-    "name": "Matt Duchene",
-    "age": 29,
-    "number": 95,
-    "off": 86,
-    "def": 89,
-    "faceOff": 76,
-    "pass": 73,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5161.png&w=200&h=145",
-    "position": 0,
-    "positioning": 62,
-    "reflexes": 62,
-    "years": 7,
-    "salary": 8000000,
-    "height": "5\"11'"
-  },
-  {
-    "id": 752,
     "team": 4,
     "name": "Max McCormick",
     "age": 27,
@@ -12096,7 +10846,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 753,
     "team": 20,
     "name": "Max Veronneau",
     "age": 24,
@@ -12114,7 +10863,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 754,
     "team": 20,
     "name": "Maxime Lajoie",
     "age": 22,
@@ -12132,7 +10880,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 755,
     "team": 20,
     "name": "Mike Condon",
     "age": 29,
@@ -12150,7 +10897,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 757,
     "team": 20,
     "name": "Mikkel Boedker",
     "age": 30,
@@ -12168,7 +10914,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 758,
     "team": 20,
     "name": "Nick Paul",
     "age": 24,
@@ -12186,25 +10931,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 760,
-    "team": 20,
-    "name": "Paul Carey",
-    "age": 31,
-    "number": 28,
-    "off": 60,
-    "def": 63,
-    "faceOff": 53,
-    "pass": 60,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2501117.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 0,
-    "salary": 1000000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 761,
     "team": 20,
     "name": "Rudolfs Balcers",
     "age": 22,
@@ -12222,25 +10948,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 762,
-    "team": 4,
-    "name": "Ryan Dzingel",
-    "age": 27,
-    "number": 18,
-    "off": 63,
-    "def": 66,
-    "faceOff": 71,
-    "pass": 65,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3070196.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 2,
-    "salary": 3375000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 763,
     "team": 20,
     "name": "Stefan Elliott",
     "age": 29,
@@ -12258,7 +10965,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 764,
     "team": 20,
     "name": "Thomas Chabot",
     "age": 23,
@@ -12276,7 +10982,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 765,
     "team": 20,
     "name": "Tom Pyatt",
     "age": 32,
@@ -12294,7 +10999,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 766,
     "team": 20,
     "name": "Vitaly Abramov",
     "age": 21,
@@ -12312,7 +11016,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 767,
     "team": 20,
     "name": "Zack Smith",
     "age": 31,
@@ -12330,7 +11033,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 768,
     "team": 21,
     "name": "Alex Lyon",
     "age": 27,
@@ -12348,7 +11050,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 769,
     "team": 21,
     "name": "Andrew MacDonald",
     "age": 33,
@@ -12366,25 +11067,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 770,
-    "team": 1,
-    "name": "Anthony Stolarz",
-    "age": 26,
-    "number": 41,
-    "off": 61,
-    "def": 64,
-    "faceOff": 53,
-    "pass": 60,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3067313.png&w=200&h=145",
-    "position": 4,
-    "positioning": 69,
-    "reflexes": 77,
-    "years": 2,
-    "salary": 750000,
-    "height": "6\"6'"
-  },
-  {
-    "id": 771,
     "team": 21,
     "name": "Brian Elliott",
     "age": 34,
@@ -12402,43 +11084,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 772,
-    "team": 10,
-    "name": "Calvin Pickard",
-    "age": 27,
-    "number": 33,
-    "off": 61,
-    "def": 65,
-    "faceOff": 53,
-    "pass": 60,
-    "faceSrc": "https://www.2kratings.com/wp-content/uploads/NBA-Player.png",
-    "position": 4,
-    "positioning": 67,
-    "reflexes": 74,
-    "years": 2,
-    "salary": 750000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 773,
-    "team": 21,
-    "name": "Cam Talbot",
-    "age": 32,
-    "number": 33,
-    "off": 74,
-    "def": 77,
-    "faceOff": 53,
-    "pass": 62,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5734.png&w=200&h=145",
-    "position": 4,
-    "positioning": 83,
-    "reflexes": 85,
-    "years": 0,
-    "salary": 1000000,
-    "height": "6\"4'"
-  },
-  {
-    "id": 774,
     "team": 21,
     "name": "Carter Hart",
     "age": 21,
@@ -12456,25 +11101,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 775,
-    "team": 21,
-    "name": "Christian Folin",
-    "age": 28,
-    "number": 26,
-    "off": 62,
-    "def": 67,
-    "faceOff": 53,
-    "pass": 63,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3024855.png&w=200&h=145",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 800000,
-    "height": "6\"3'"
-  },
-  {
-    "id": 776,
     "team": 21,
     "name": "Claude Giroux",
     "age": 32,
@@ -12492,7 +11118,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 777,
     "team": 21,
     "name": "Corban Knight",
     "age": 29,
@@ -12510,25 +11135,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 778,
-    "team": 21,
-    "name": "Dale Weise",
-    "age": 31,
-    "number": 22,
-    "off": 60,
-    "def": 64,
-    "faceOff": 74,
-    "pass": 60,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5067.png&w=200&h=145",
-    "position": 2,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 2350000,
-    "height": "6\"2'"
-  },
-  {
-    "id": 780,
     "team": 21,
     "name": "Jakub Voracek",
     "age": 30,
@@ -12546,7 +11152,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 781,
     "team": 21,
     "name": "James van Riemsdyk",
     "age": 30,
@@ -12564,25 +11169,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 782,
-    "team": 21,
-    "name": "Jordan Weal",
-    "age": 27,
-    "number": 40,
-    "off": 62,
-    "def": 65,
-    "faceOff": 71,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5557.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 2,
-    "salary": 1400000,
-    "height": "5\"10'"
-  },
-  {
-    "id": 783,
     "team": 21,
     "name": "Jori Lehtera",
     "age": 32,
@@ -12600,7 +11186,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 784,
     "team": 28,
     "name": "Justin Bailey",
     "age": 24,
@@ -12618,7 +11203,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 785,
     "team": 21,
     "name": "Mark Friedman",
     "age": 24,
@@ -12636,7 +11220,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 786,
     "team": 21,
     "name": "Michael Raffl",
     "age": 31,
@@ -12654,7 +11237,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 789,
     "team": 21,
     "name": "Mikhail Vorobyev",
     "age": 23,
@@ -12672,7 +11254,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 790,
     "team": 21,
     "name": "Nicolas Aube-Kubel",
     "age": 23,
@@ -12690,7 +11271,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 791,
     "team": 21,
     "name": "Nolan Patrick",
     "age": 21,
@@ -12708,7 +11288,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 792,
     "team": 21,
     "name": "Oskar Lindblom",
     "age": 23,
@@ -12726,7 +11305,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 793,
     "team": 15,
     "name": "Phil Varone",
     "age": 29,
@@ -12744,7 +11322,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 794,
     "team": 21,
     "name": "Philippe Myers",
     "age": 23,
@@ -12762,7 +11339,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 795,
     "team": 21,
     "name": "Radko Gudas",
     "age": 29,
@@ -12780,7 +11356,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 796,
     "team": 21,
     "name": "Robert Hagg",
     "age": 24,
@@ -12798,25 +11373,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 797,
-    "team": 14,
-    "name": "Ryan Hartman",
-    "age": 25,
-    "number": 38,
-    "off": 69,
-    "def": 72,
-    "faceOff": 58,
-    "pass": 67,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3042063.png&w=200&h=145",
-    "position": 2,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 2,
-    "salary": 1900000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 798,
     "team": 21,
     "name": "Samuel Morin",
     "age": 24,
@@ -12834,7 +11390,6 @@
     "height": "6\"6'"
   },
   {
-    "id": 799,
     "team": 21,
     "name": "Scott Laughton",
     "age": 25,
@@ -12852,7 +11407,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 800,
     "team": 21,
     "name": "Sean Couturier",
     "age": 27,
@@ -12870,7 +11424,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 801,
     "team": 21,
     "name": "Shayne Gostisbehere",
     "age": 26,
@@ -12888,7 +11441,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 803,
     "team": 21,
     "name": "Travis Sanheim",
     "age": 23,
@@ -12906,7 +11458,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 804,
     "team": 27,
     "name": "Tyrell Goulbourne",
     "age": 26,
@@ -12924,25 +11475,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 805,
-    "team": 17,
-    "name": "Wayne Simmonds",
-    "age": 31,
-    "number": 17,
-    "off": 62,
-    "def": 66,
-    "faceOff": 53,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3817.png&w=200&h=145",
-    "position": 2,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 5000000,
-    "height": "6\"2'"
-  },
-  {
-    "id": 806,
     "team": 22,
     "name": "Adam Johnson",
     "age": 25,
@@ -12960,7 +11492,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 807,
     "team": 22,
     "name": "Brian Dumoulin",
     "age": 28,
@@ -12978,7 +11509,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 808,
     "team": 22,
     "name": "Bryan Rust",
     "age": 27,
@@ -12996,25 +11526,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 809,
-    "team": 22,
-    "name": "Carl Hagelin",
-    "age": 31,
-    "number": 62,
-    "off": 62,
-    "def": 66,
-    "faceOff": 58,
-    "pass": 63,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2300267.png&w=200&h=145",
-    "position": 1,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 4,
-    "salary": 2750000,
-    "height": "5\"11'"
-  },
-  {
-    "id": 810,
     "team": 22,
     "name": "Casey DeSmith",
     "age": 28,
@@ -13032,7 +11543,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 811,
     "team": 22,
     "name": "Chad Ruhwedel",
     "age": 29,
@@ -13050,43 +11560,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 812,
-    "team": 22,
-    "name": "Daniel Sprong",
-    "age": 22,
-    "number": 41,
-    "off": 69,
-    "def": 66,
-    "faceOff": 61,
-    "pass": 63,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3904181.png&w=200&h=145",
-    "position": 2,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 750000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 813,
-    "team": 22,
-    "name": "Derek Grant",
-    "age": 29,
-    "number": 38,
-    "off": 63,
-    "def": 65,
-    "faceOff": 74,
-    "pass": 65,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2525884.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 700000,
-    "height": "6\"3'"
-  },
-  {
-    "id": 815,
     "team": 22,
     "name": "Dominik Simon",
     "age": 25,
@@ -13104,7 +11577,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 816,
     "team": 22,
     "name": "Erik Gudbranson",
     "age": 28,
@@ -13122,7 +11594,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 817,
     "team": 22,
     "name": "Evgeni Malkin",
     "age": 33,
@@ -13140,7 +11611,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 818,
     "team": 26,
     "name": "Garrett Wilson",
     "age": 28,
@@ -13158,7 +11628,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 819,
     "team": 22,
     "name": "Jack Johnson",
     "age": 33,
@@ -13176,7 +11645,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 820,
     "team": 22,
     "name": "Jake Guentzel",
     "age": 25,
@@ -13194,79 +11662,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 821,
-    "team": 22,
-    "name": "Jamie Oleksiak",
-    "age": 27,
-    "number": 6,
-    "off": 62,
-    "def": 67,
-    "faceOff": 53,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2562625.png&w=200&h=145",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 2,
-    "salary": 2137500,
-    "height": "6\"7'"
-  },
-  {
-    "id": 822,
-    "team": 22,
-    "name": "Jared McCann",
-    "age": 23,
-    "number": 19,
-    "off": 67,
-    "def": 67,
-    "faceOff": 73,
-    "pass": 67,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3114777.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 1250000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 823,
-    "team": 3,
-    "name": "Jean-Sebastien Dea",
-    "age": 25,
-    "number": 39,
-    "off": 62,
-    "def": 65,
-    "faceOff": 70,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3067865.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 700000,
-    "height": "5\"11'"
-  },
-  {
-    "id": 824,
-    "team": 22,
-    "name": "Joseph Blandisi",
-    "age": 25,
-    "number": 36,
-    "off": 60,
-    "def": 63,
-    "faceOff": 53,
-    "pass": 60,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4392639.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 700000,
-    "height": "5\"11'"
-  },
-  {
-    "id": 825,
     "team": 22,
     "name": "Justin Schultz",
     "age": 29,
@@ -13284,7 +11679,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 826,
     "team": 22,
     "name": "Juuso Riikola",
     "age": 26,
@@ -13302,7 +11696,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 827,
     "team": 22,
     "name": "Kris Letang",
     "age": 32,
@@ -13320,7 +11713,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 829,
     "team": 22,
     "name": "Matt Cullen",
     "age": 43,
@@ -13338,7 +11730,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 830,
     "team": 22,
     "name": "Matt Murray",
     "age": 25,
@@ -13356,25 +11747,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 831,
-    "team": 22,
-    "name": "Nick Bjugstad",
-    "age": 27,
-    "number": 27,
-    "off": 83,
-    "def": 86,
-    "faceOff": 71,
-    "pass": 71,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5828.png&w=200&h=145",
-    "position": 0,
-    "positioning": 58,
-    "reflexes": 58,
-    "years": 2,
-    "salary": 4100000,
-    "height": "6\"6'"
-  },
-  {
-    "id": 832,
     "team": 22,
     "name": "Olli Maatta",
     "age": 25,
@@ -13392,7 +11764,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 833,
     "team": 22,
     "name": "Patric Hornqvist",
     "age": 33,
@@ -13410,7 +11781,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 834,
     "team": 22,
     "name": "Phil Kessel",
     "age": 32,
@@ -13428,7 +11798,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 836,
     "team": 22,
     "name": "Sidney Crosby",
     "age": 32,
@@ -13446,25 +11815,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 837,
-    "team": 22,
-    "name": "Tanner Pearson",
-    "age": 27,
-    "number": 14,
-    "off": 61,
-    "def": 63,
-    "faceOff": 59,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2976860.png&w=200&h=145",
-    "position": 1,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 2,
-    "salary": 3750000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 838,
     "team": 22,
     "name": "Teddy Blueger",
     "age": 25,
@@ -13482,7 +11832,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 839,
     "team": 22,
     "name": "Tristan Jarry",
     "age": 24,
@@ -13500,7 +11849,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 840,
     "team": 22,
     "name": "Zach Aston-Reese",
     "age": 25,
@@ -13518,7 +11866,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 841,
     "team": 22,
     "name": "Zach Trotman",
     "age": 29,
@@ -13536,7 +11883,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 842,
     "team": 23,
     "name": "Aaron Dell",
     "age": 30,
@@ -13554,7 +11900,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 843,
     "team": 23,
     "name": "Antti Suomela",
     "age": 25,
@@ -13572,7 +11917,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 844,
     "team": 23,
     "name": "Barclay Goodrow",
     "age": 26,
@@ -13590,7 +11934,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 845,
     "team": 23,
     "name": "Brenden Dillon",
     "age": 29,
@@ -13608,7 +11951,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 846,
     "team": 23,
     "name": "Brent Burns",
     "age": 34,
@@ -13626,7 +11968,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 847,
     "team": 23,
     "name": "Dylan Gambrell",
     "age": 23,
@@ -13644,7 +11985,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 848,
     "team": 23,
     "name": "Erik Karlsson",
     "age": 29,
@@ -13662,7 +12002,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 849,
     "team": 23,
     "name": "Evander Kane",
     "age": 28,
@@ -13680,25 +12019,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 850,
-    "team": 5,
-    "name": "Gustav Nyquist",
-    "age": 30,
-    "number": 14,
-    "off": 82,
-    "def": 81,
-    "faceOff": 67,
-    "pass": 84,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5823.png&w=200&h=145",
-    "position": 2,
-    "positioning": 49,
-    "reflexes": 49,
-    "years": 4,
-    "salary": 5500000,
-    "height": "5\"11'"
-  },
-  {
-    "id": 851,
     "team": 23,
     "name": "Jacob Middleton",
     "age": 24,
@@ -13716,7 +12036,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 852,
     "team": 13,
     "name": "Joakim Ryan",
     "age": 26,
@@ -13734,7 +12053,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 853,
     "team": 9,
     "name": "Joe Pavelski",
     "age": 35,
@@ -13752,7 +12070,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 855,
     "team": 8,
     "name": "Joonas Donskoi",
     "age": 27,
@@ -13770,7 +12087,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 856,
     "team": 23,
     "name": "Justin Braun",
     "age": 32,
@@ -13788,7 +12104,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 857,
     "team": 23,
     "name": "Kevin Labanc",
     "age": 24,
@@ -13806,7 +12121,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 858,
     "team": 23,
     "name": "Logan Couture",
     "age": 30,
@@ -13824,7 +12138,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 859,
     "team": 23,
     "name": "Lukas Radil",
     "age": 29,
@@ -13842,7 +12155,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 860,
     "team": 23,
     "name": "Marc-Edouard Vlasic",
     "age": 32,
@@ -13860,7 +12172,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 861,
     "team": 23,
     "name": "Marcus Sorensen",
     "age": 27,
@@ -13878,7 +12189,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 862,
     "team": 23,
     "name": "Martin Jones",
     "age": 30,
@@ -13896,7 +12206,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 863,
     "team": 23,
     "name": "Melker Karlsson",
     "age": 29,
@@ -13914,7 +12223,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 865,
     "team": 23,
     "name": "Radim Simek",
     "age": 27,
@@ -13932,7 +12240,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 867,
     "team": 23,
     "name": "Tim Heed",
     "age": 29,
@@ -13950,7 +12257,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 868,
     "team": 23,
     "name": "Timo Meier",
     "age": 23,
@@ -13968,7 +12274,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 869,
     "team": 23,
     "name": "Tomas Hertl",
     "age": 26,
@@ -13986,7 +12291,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 870,
     "team": 24,
     "name": "Alex Pietrangelo",
     "age": 30,
@@ -14004,7 +12308,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 871,
     "team": 24,
     "name": "Alex Steen",
     "age": 35,
@@ -14022,7 +12325,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 872,
     "team": 24,
     "name": "Brayden Schenn",
     "age": 28,
@@ -14040,7 +12342,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 873,
     "team": 24,
     "name": "Carl Gunnarsson",
     "age": 33,
@@ -14058,7 +12359,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 875,
     "team": 24,
     "name": "Chris Butler",
     "age": 33,
@@ -14076,7 +12376,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 877,
     "team": 24,
     "name": "Colton Parayko",
     "age": 26,
@@ -14094,7 +12393,6 @@
     "height": "6\"6'"
   },
   {
-    "id": 878,
     "team": 24,
     "name": "David Perron",
     "age": 31,
@@ -14112,7 +12410,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 880,
     "team": 24,
     "name": "Jaden Schwartz",
     "age": 27,
@@ -14130,7 +12427,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 881,
     "team": 24,
     "name": "Jake Allen",
     "age": 29,
@@ -14148,7 +12444,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 883,
     "team": 24,
     "name": "Jay Bouwmeester",
     "age": 36,
@@ -14166,7 +12461,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 885,
     "team": 24,
     "name": "Jordan Binnington",
     "age": 26,
@@ -14184,7 +12478,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 886,
     "team": 24,
     "name": "Jordan Kyrou",
     "age": 21,
@@ -14202,7 +12495,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 887,
     "team": 24,
     "name": "Jordan Nolan",
     "age": 30,
@@ -14220,7 +12512,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 888,
     "team": 24,
     "name": "Jordan Schmaltz",
     "age": 26,
@@ -14238,7 +12529,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 889,
     "team": 24,
     "name": "Mackenzie MacEachern",
     "age": 25,
@@ -14256,25 +12546,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 890,
-    "team": 1,
-    "name": "Michael Del Zotto",
-    "age": 29,
-    "number": 42,
-    "off": 61,
-    "def": 65,
-    "faceOff": 53,
-    "pass": 62,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5062.png&w=200&h=145",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 750000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 892,
     "team": 24,
     "name": "Oskar Sundqvist",
     "age": 25,
@@ -14292,7 +12563,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 893,
     "team": 24,
     "name": "Pat Maroon",
     "age": 31,
@@ -14310,7 +12580,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 894,
     "team": 24,
     "name": "Robby Fabbri",
     "age": 24,
@@ -14328,7 +12597,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 895,
     "team": 24,
     "name": "Robert Bortuzzo",
     "age": 30,
@@ -14346,7 +12614,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 896,
     "team": 24,
     "name": "Robert Thomas",
     "age": 20,
@@ -14364,7 +12631,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 897,
     "team": 24,
     "name": "Ryan O'Reilly",
     "age": 28,
@@ -14382,7 +12648,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 898,
     "team": 24,
     "name": "Sammy Blais",
     "age": 23,
@@ -14400,7 +12665,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 899,
     "team": 24,
     "name": "Tyler Bozak",
     "age": 33,
@@ -14418,7 +12682,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 900,
     "team": 24,
     "name": "Vince Dunn",
     "age": 23,
@@ -14436,7 +12699,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 901,
     "team": 24,
     "name": "Vladimir Tarasenko",
     "age": 28,
@@ -14454,7 +12716,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 902,
     "team": 24,
     "name": "Zach Sanford",
     "age": 25,
@@ -14472,7 +12733,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 904,
     "team": 25,
     "name": "Alex Killorn",
     "age": 30,
@@ -14490,7 +12750,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 905,
     "team": 25,
     "name": "Andrei Vasilevskiy",
     "age": 25,
@@ -14508,7 +12767,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 906,
     "team": 25,
     "name": "Anthony Cirelli",
     "age": 22,
@@ -14526,7 +12784,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 907,
     "team": 12,
     "name": "Anton Stralman",
     "age": 33,
@@ -14544,7 +12801,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 909,
     "team": 25,
     "name": "Braydon Coburn",
     "age": 34,
@@ -14562,7 +12818,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 910,
     "team": 25,
     "name": "Cameron Gaunce",
     "age": 29,
@@ -14580,7 +12835,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 911,
     "team": 25,
     "name": "Cedric Paquette",
     "age": 26,
@@ -14598,7 +12852,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 912,
     "team": 25,
     "name": "Cory Conacher",
     "age": 30,
@@ -14616,7 +12869,6 @@
     "height": "5\"8'"
   },
   {
-    "id": 914,
     "team": 25,
     "name": "Danick Martel",
     "age": 25,
@@ -14634,7 +12886,6 @@
     "height": "5\"8'"
   },
   {
-    "id": 915,
     "team": 25,
     "name": "Eddie Pasquale",
     "age": 29,
@@ -14652,7 +12903,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 916,
     "team": 25,
     "name": "Erik Cernak",
     "age": 22,
@@ -14670,7 +12920,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 917,
     "team": 25,
     "name": "J.T. Miller",
     "age": 26,
@@ -14688,25 +12937,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 918,
-    "team": 25,
-    "name": "Jan Rutta",
-    "age": 29,
-    "number": 44,
-    "off": 63,
-    "def": 67,
-    "faceOff": 53,
-    "pass": 63,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4230583.png&w=200&h=145",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 1300000,
-    "height": "6\"3'"
-  },
-  {
-    "id": 919,
     "team": 25,
     "name": "Louis Domingue",
     "age": 27,
@@ -14724,7 +12954,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 920,
     "team": 25,
     "name": "Mathieu Joseph",
     "age": 22,
@@ -14742,7 +12971,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 921,
     "team": 25,
     "name": "Mikhail Sergachev",
     "age": 21,
@@ -14760,7 +12988,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 922,
     "team": 25,
     "name": "Nikita Kucherov",
     "age": 26,
@@ -14778,7 +13005,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 923,
     "team": 25,
     "name": "Ondrej Palat",
     "age": 28,
@@ -14796,7 +13022,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 924,
     "team": 25,
     "name": "Ryan Callahan",
     "age": 34,
@@ -14814,7 +13039,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 925,
     "team": 25,
     "name": "Ryan McDonagh",
     "age": 30,
@@ -14832,25 +13056,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 926,
-    "team": 25,
-    "name": "Slater Koekkoek",
-    "age": 25,
-    "number": 29,
-    "off": 63,
-    "def": 69,
-    "faceOff": 53,
-    "pass": 63,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2976840.png&w=200&h=145",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 925000,
-    "height": "6\"2'"
-  },
-  {
-    "id": 927,
     "team": 25,
     "name": "Steven Stamkos",
     "age": 29,
@@ -14868,7 +13073,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 928,
     "team": 25,
     "name": "Tyler Johnson",
     "age": 29,
@@ -14886,7 +13090,6 @@
     "height": "5\"8'"
   },
   {
-    "id": 929,
     "team": 25,
     "name": "Victor Hedman",
     "age": 29,
@@ -14904,7 +13107,6 @@
     "height": "6\"6'"
   },
   {
-    "id": 930,
     "team": 25,
     "name": "Yanni Gourde",
     "age": 28,
@@ -14922,7 +13124,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 931,
     "team": 26,
     "name": "Andreas Johnsson",
     "age": 25,
@@ -14940,7 +13141,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 932,
     "team": 26,
     "name": "Auston Matthews",
     "age": 22,
@@ -14958,7 +13158,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 933,
     "team": 26,
     "name": "Calle Rosen",
     "age": 25,
@@ -14976,7 +13175,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 934,
     "team": 26,
     "name": "Connor Brown",
     "age": 26,
@@ -14994,7 +13192,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 935,
     "team": 26,
     "name": "Frederik Andersen",
     "age": 30,
@@ -15012,7 +13209,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 936,
     "team": 26,
     "name": "Frederik Gauthier",
     "age": 24,
@@ -15030,7 +13226,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 937,
     "team": 26,
     "name": "Garret Sparks",
     "age": 26,
@@ -15048,25 +13243,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 940,
-    "team": 26,
-    "name": "Jake Muzzin",
-    "age": 30,
-    "number": 8,
-    "off": 79,
-    "def": 90,
-    "faceOff": 53,
-    "pass": 73,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4906.png&w=200&h=145",
-    "position": 3,
-    "positioning": 48,
-    "reflexes": 48,
-    "years": 0,
-    "salary": 1000000,
-    "height": "6\"3'"
-  },
-  {
-    "id": 941,
     "team": 26,
     "name": "John Tavares",
     "age": 29,
@@ -15084,7 +13260,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 942,
     "team": 28,
     "name": "Josh Leivo",
     "age": 26,
@@ -15102,7 +13277,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 943,
     "team": 26,
     "name": "Justin Holl",
     "age": 28,
@@ -15120,7 +13294,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 944,
     "team": 26,
     "name": "Kasperi Kapanen",
     "age": 23,
@@ -15138,7 +13311,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 945,
     "team": 26,
     "name": "Martin Marincin",
     "age": 27,
@@ -15156,25 +13328,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 946,
-    "team": 26,
-    "name": "Michael Hutchinson",
-    "age": 29,
-    "number": 30,
-    "off": 61,
-    "def": 64,
-    "faceOff": 53,
-    "pass": 60,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5133.png&w=200&h=145",
-    "position": 4,
-    "positioning": 71,
-    "reflexes": 78,
-    "years": 1,
-    "salary": 700000,
-    "height": "6\"3'"
-  },
-  {
-    "id": 947,
     "team": 26,
     "name": "Mitch Marner",
     "age": 22,
@@ -15192,7 +13345,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 948,
     "team": 26,
     "name": "Morgan Rielly",
     "age": 25,
@@ -15210,7 +13362,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 949,
     "team": 26,
     "name": "Nazem Kadri",
     "age": 29,
@@ -15228,7 +13379,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 950,
     "team": 26,
     "name": "Nic Petan",
     "age": 24,
@@ -15246,7 +13396,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 951,
     "team": 26,
     "name": "Nikita Zaitsev",
     "age": 28,
@@ -15264,7 +13413,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 952,
     "team": 2,
     "name": "Par Lindholm",
     "age": 28,
@@ -15282,7 +13430,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 954,
     "team": 20,
     "name": "Ron Hainsey",
     "age": 38,
@@ -15300,7 +13447,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 955,
     "team": 26,
     "name": "Travis Dermott",
     "age": 23,
@@ -15318,7 +13464,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 956,
     "team": 26,
     "name": "Trevor Moore",
     "age": 24,
@@ -15336,7 +13481,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 957,
     "team": 20,
     "name": "Tyler Ennis",
     "age": 30,
@@ -15354,7 +13498,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 958,
     "team": 26,
     "name": "William Nylander",
     "age": 23,
@@ -15372,7 +13515,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 959,
     "team": 26,
     "name": "Zach Hyman",
     "age": 27,
@@ -15390,7 +13532,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 960,
     "team": 27,
     "name": "Alex Tuch",
     "age": 23,
@@ -15408,25 +13549,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 961,
-    "team": 27,
-    "name": "Brad Hunt",
-    "age": 31,
-    "number": 77,
-    "off": 64,
-    "def": 67,
-    "faceOff": 53,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2334821.png&w=200&h=145",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 2,
-    "salary": 700000,
-    "height": "5\"9'"
-  },
-  {
-    "id": 962,
     "team": 27,
     "name": "Brandon Pirri",
     "age": 28,
@@ -15444,7 +13566,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 963,
     "team": 27,
     "name": "Brayden McNabb",
     "age": 29,
@@ -15462,7 +13583,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 964,
     "team": 27,
     "name": "Cody Eakin",
     "age": 28,
@@ -15480,7 +13600,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 965,
     "team": 27,
     "name": "Colin Miller",
     "age": 27,
@@ -15498,7 +13617,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 966,
     "team": 16,
     "name": "Daniel Carr",
     "age": 28,
@@ -15516,7 +13634,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 967,
     "team": 27,
     "name": "Deryk Engelland",
     "age": 37,
@@ -15534,7 +13651,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 968,
     "team": 27,
     "name": "Erik Haula",
     "age": 28,
@@ -15552,7 +13668,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 970,
     "team": 27,
     "name": "Jon Marchessault",
     "age": 29,
@@ -15570,7 +13685,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 971,
     "team": 27,
     "name": "Jonathon Merrill",
     "age": 27,
@@ -15588,7 +13702,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 972,
     "team": 27,
     "name": "Malcolm Subban",
     "age": 26,
@@ -15606,7 +13719,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 973,
     "team": 27,
     "name": "Marc-Andre Fleury",
     "age": 35,
@@ -15624,25 +13736,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 974,
-    "team": 27,
-    "name": "Mark Stone",
-    "age": 27,
-    "number": 61,
-    "off": 91,
-    "def": 90,
-    "faceOff": 68,
-    "pass": 86,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5545.png&w=200&h=145",
-    "position": 2,
-    "positioning": 52,
-    "reflexes": 52,
-    "years": 8,
-    "salary": 9500000,
-    "height": "6\"4'"
-  },
-  {
-    "id": 975,
     "team": 27,
     "name": "Max Pacioretty",
     "age": 31,
@@ -15660,7 +13753,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 976,
     "team": 2,
     "name": "Maxime Lagace",
     "age": 27,
@@ -15678,7 +13770,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 977,
     "team": 27,
     "name": "Nate Schmidt",
     "age": 28,
@@ -15696,7 +13787,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 978,
     "team": 27,
     "name": "Nick Holden",
     "age": 32,
@@ -15714,7 +13804,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 980,
     "team": 27,
     "name": "Paul Stastny",
     "age": 34,
@@ -15732,7 +13821,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 981,
     "team": 8,
     "name": "Pierre-Edouard Bellemare",
     "age": 34,
@@ -15750,7 +13838,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 982,
     "team": 27,
     "name": "Reilly Smith",
     "age": 28,
@@ -15768,7 +13855,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 983,
     "team": 7,
     "name": "Ryan Carpenter",
     "age": 29,
@@ -15786,7 +13872,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 984,
     "team": 27,
     "name": "Ryan Reaves",
     "age": 33,
@@ -15804,7 +13889,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 985,
     "team": 27,
     "name": "Shea Theodore",
     "age": 24,
@@ -15822,7 +13906,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 987,
     "team": 27,
     "name": "Tomas Nosek",
     "age": 27,
@@ -15840,25 +13923,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 988,
-    "team": 27,
-    "name": "Valentin Zykov",
-    "age": 24,
-    "number": 7,
-    "off": 61,
-    "def": 64,
-    "faceOff": 61,
-    "pass": 62,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3042001.png&w=200&h=145",
-    "position": 1,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 675000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 989,
     "team": 27,
     "name": "William Carrier",
     "age": 25,
@@ -15876,7 +13940,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 990,
     "team": 27,
     "name": "William Karlsson",
     "age": 27,
@@ -15894,7 +13957,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 991,
     "team": 28,
     "name": "Adam Gaudette",
     "age": 23,
@@ -15912,7 +13974,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 992,
     "team": 28,
     "name": "Alex Biega",
     "age": 31,
@@ -15930,7 +13991,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 993,
     "team": 28,
     "name": "Alexander Edler",
     "age": 33,
@@ -15948,25 +14008,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 994,
-    "team": 28,
-    "name": "Anders Nilsson",
-    "age": 29,
-    "number": 31,
-    "off": 66,
-    "def": 70,
-    "faceOff": 53,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5514.png&w=200&h=145",
-    "position": 4,
-    "positioning": 75,
-    "reflexes": 82,
-    "years": 2,
-    "salary": 2600000,
-    "height": "6\"6'"
-  },
-  {
-    "id": 995,
     "team": 28,
     "name": "Antoine Roussel",
     "age": 30,
@@ -15984,7 +14025,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 996,
     "team": 28,
     "name": "Ashton Sautner",
     "age": 25,
@@ -16002,7 +14042,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 998,
     "team": 28,
     "name": "Bo Horvat",
     "age": 24,
@@ -16020,7 +14059,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 999,
     "team": 28,
     "name": "Brandon Sutter",
     "age": 30,
@@ -16038,7 +14076,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 1000,
     "team": 2,
     "name": "Brendan Gaunce",
     "age": 25,
@@ -16056,25 +14093,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 1001,
-    "team": 30,
-    "name": "Brendan Leipsic",
-    "age": 25,
-    "number": 9,
-    "off": 66,
-    "def": 69,
-    "faceOff": 68,
-    "pass": 68,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3067485.png&w=200&h=145",
-    "position": 1,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 700000,
-    "height": "5\"10'"
-  },
-  {
-    "id": 1003,
     "team": 28,
     "name": "Brogan Rafferty",
     "age": 24,
@@ -16092,7 +14110,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 1004,
     "team": 28,
     "name": "Chris Tanev",
     "age": 30,
@@ -16110,7 +14127,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 1006,
     "team": 24,
     "name": "Derrick Pouliot",
     "age": 26,
@@ -16128,7 +14144,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 1007,
     "team": 28,
     "name": "Elias Pettersson",
     "age": 21,
@@ -16146,25 +14161,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 1008,
-    "team": 28,
-    "name": "Erik Gudbranson",
-    "age": 28,
-    "number": 44,
-    "off": 63,
-    "def": 69,
-    "faceOff": 53,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5503.png&w=200&h=145",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 2,
-    "salary": 4000000,
-    "height": "6\"5'"
-  },
-  {
-    "id": 1009,
     "team": 28,
     "name": "Guillaume Brisebois",
     "age": 22,
@@ -16182,7 +14178,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 1010,
     "team": 28,
     "name": "Jacob Markstrom",
     "age": 30,
@@ -16200,7 +14195,6 @@
     "height": "6\"6'"
   },
   {
-    "id": 1011,
     "team": 28,
     "name": "Jake Virtanen",
     "age": 23,
@@ -16218,7 +14212,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 1012,
     "team": 28,
     "name": "Jay Beagle",
     "age": 34,
@@ -16236,25 +14229,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 1013,
-    "team": 28,
-    "name": "Josh Leivo",
-    "age": 26,
-    "number": 17,
-    "off": 63,
-    "def": 66,
-    "faceOff": 66,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2590559.png&w=200&h=145",
-    "position": 1,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 1500000,
-    "height": "6\"2'"
-  },
-  {
-    "id": 1014,
     "team": 28,
     "name": "Josh Teves",
     "age": 24,
@@ -16272,7 +14246,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 1015,
     "team": 28,
     "name": "Loui Eriksson",
     "age": 34,
@@ -16290,25 +14263,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 1016,
-    "team": 25,
-    "name": "Luke Schenn",
-    "age": 30,
-    "number": 2,
-    "off": 60,
-    "def": 63,
-    "faceOff": 53,
-    "pass": 60,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5092.png&w=200&h=145",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 700000,
-    "height": "6\"2'"
-  },
-  {
-    "id": 1017,
     "team": 11,
     "name": "Markus Granlund",
     "age": 26,
@@ -16326,25 +14280,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 1018,
-    "team": 1,
-    "name": "Michael Del Zotto",
-    "age": 29,
-    "number": 4,
-    "off": 61,
-    "def": 65,
-    "faceOff": 53,
-    "pass": 62,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5062.png&w=200&h=145",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 750000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 1019,
     "team": 28,
     "name": "Michael Dipietro",
     "age": 20,
@@ -16362,7 +14297,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 1021,
     "team": 28,
     "name": "Quinn Hughes",
     "age": 20,
@@ -16380,7 +14314,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 1022,
     "team": 28,
     "name": "Reid Boucher",
     "age": 26,
@@ -16398,7 +14331,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 1023,
     "team": 28,
     "name": "Richard Bachman",
     "age": 32,
@@ -16416,25 +14348,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 1025,
-    "team": 28,
-    "name": "Sam Gagner",
-    "age": 30,
-    "number": 89,
-    "off": 64,
-    "def": 65,
-    "faceOff": 70,
-    "pass": 63,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3808.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 3150000,
-    "height": "5\"11'"
-  },
-  {
-    "id": 1026,
     "team": 28,
     "name": "Sven Baertschi",
     "age": 27,
@@ -16452,25 +14365,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 1027,
-    "team": 28,
-    "name": "Tanner Pearson",
-    "age": 27,
-    "number": 70,
-    "off": 61,
-    "def": 63,
-    "faceOff": 59,
-    "pass": 61,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2976860.png&w=200&h=145",
-    "position": 1,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 2,
-    "salary": 3750000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 1028,
     "team": 28,
     "name": "Thatcher Demko",
     "age": 24,
@@ -16488,7 +14382,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 1029,
     "team": 28,
     "name": "Tim Schaller",
     "age": 29,
@@ -16506,7 +14399,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 1030,
     "team": 28,
     "name": "Troy Stecher",
     "age": 25,
@@ -16524,7 +14416,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 1031,
     "team": 28,
     "name": "Tyler Motte",
     "age": 24,
@@ -16542,7 +14433,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 1032,
     "team": 28,
     "name": "Zack MacEwen",
     "age": 23,
@@ -16560,7 +14450,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 1033,
     "team": 29,
     "name": "Adam Lowry",
     "age": 26,
@@ -16578,7 +14467,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 1034,
     "team": 29,
     "name": "Andrew Copp",
     "age": 25,
@@ -16596,7 +14484,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 1035,
     "team": 15,
     "name": "Ben Chiarot",
     "age": 28,
@@ -16614,7 +14501,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 1036,
     "team": 29,
     "name": "Blake Wheeler",
     "age": 33,
@@ -16632,7 +14518,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 1037,
     "team": 22,
     "name": "Brandon Tanev",
     "age": 28,
@@ -16650,7 +14535,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 1039,
     "team": 29,
     "name": "Bryan Little",
     "age": 32,
@@ -16668,7 +14552,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 1040,
     "team": 29,
     "name": "Cameron Schilling",
     "age": 31,
@@ -16686,7 +14569,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 1041,
     "team": 29,
     "name": "Connor Hellebuyck",
     "age": 26,
@@ -16704,7 +14586,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 1042,
     "team": 29,
     "name": "Dmitry Kulikov",
     "age": 29,
@@ -16722,7 +14603,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 1043,
     "team": 29,
     "name": "Dustin Byfuglien",
     "age": 34,
@@ -16740,7 +14620,6 @@
     "height": "6\"5'"
   },
   {
-    "id": 1045,
     "team": 29,
     "name": "Jack Roslovic",
     "age": 23,
@@ -16758,7 +14637,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 1046,
     "team": 19,
     "name": "Jacob Trouba",
     "age": 25,
@@ -16776,7 +14654,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 1047,
     "team": 29,
     "name": "Joseph Morrow",
     "age": 27,
@@ -16794,7 +14671,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 1048,
     "team": 29,
     "name": "Josh Morrissey",
     "age": 24,
@@ -16812,25 +14688,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 1049,
-    "team": 29,
-    "name": "Kevin Hayes",
-    "age": 27,
-    "number": 12,
-    "off": 72,
-    "def": 71,
-    "faceOff": 79,
-    "pass": 78,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5767.png&w=200&h=145",
-    "position": 2,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 7,
-    "salary": 7142857,
-    "height": "6\"5'"
-  },
-  {
-    "id": 1050,
     "team": 29,
     "name": "Kristian Vesalainen",
     "age": 20,
@@ -16848,7 +14705,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 1052,
     "team": 29,
     "name": "Laurent Brossoit",
     "age": 26,
@@ -16866,7 +14722,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 1053,
     "team": 29,
     "name": "Mark Scheifele",
     "age": 26,
@@ -16884,7 +14739,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 1054,
     "team": 29,
     "name": "Mason Appleton",
     "age": 24,
@@ -16902,7 +14756,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 1055,
     "team": 29,
     "name": "Mathieu Perreault",
     "age": 32,
@@ -16920,7 +14773,6 @@
     "height": "5\"10'"
   },
   {
-    "id": 1056,
     "team": 29,
     "name": "Matt Hendricks",
     "age": 38,
@@ -16938,25 +14790,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 1057,
-    "team": 29,
-    "name": "Nathan Beaulieu",
-    "age": 27,
-    "number": 88,
-    "off": 64,
-    "def": 69,
-    "faceOff": 53,
-    "pass": 63,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2562598.png&w=200&h=145",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 1000000,
-    "height": "6\"2'"
-  },
-  {
-    "id": 1058,
     "team": 29,
     "name": "Nelson Nogier",
     "age": 23,
@@ -16974,25 +14807,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 1059,
-    "team": 29,
-    "name": "Nic Petan",
-    "age": 24,
-    "number": 19,
-    "off": 61,
-    "def": 63,
-    "faceOff": 65,
-    "pass": 60,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3042018.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 0,
-    "salary": 1000000,
-    "height": "5\"9'"
-  },
-  {
-    "id": 1060,
     "team": 29,
     "name": "Nikolaj Ehlers",
     "age": 23,
@@ -17010,25 +14824,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 1061,
-    "team": 2,
-    "name": "Par Lindholm",
-    "age": 28,
-    "number": 22,
-    "off": 65,
-    "def": 71,
-    "faceOff": 75,
-    "pass": 67,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4294165.png&w=200&h=145",
-    "position": 0,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 1700000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 1063,
     "team": 29,
     "name": "Sami Niku",
     "age": 23,
@@ -17046,7 +14841,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 1064,
     "team": 28,
     "name": "Tyler Myers",
     "age": 29,
@@ -17064,7 +14858,6 @@
     "height": "6\"8'"
   },
   {
-    "id": 1065,
     "team": 30,
     "name": "Alex Ovechkin",
     "age": 34,
@@ -17082,7 +14875,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 1066,
     "team": 8,
     "name": "Andre Burakovsky",
     "age": 24,
@@ -17100,7 +14892,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 1067,
     "team": 30,
     "name": "Braden Holtby",
     "age": 30,
@@ -17118,7 +14909,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 1068,
     "team": 12,
     "name": "Brett Connolly",
     "age": 27,
@@ -17136,7 +14926,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 1069,
     "team": 30,
     "name": "Brooks Orpik",
     "age": 39,
@@ -17154,25 +14943,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 1070,
-    "team": 30,
-    "name": "Carl Hagelin",
-    "age": 31,
-    "number": 62,
-    "off": 62,
-    "def": 66,
-    "faceOff": 58,
-    "pass": 63,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2300267.png&w=200&h=145",
-    "position": 1,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 4,
-    "salary": 2750000,
-    "height": "5\"11'"
-  },
-  {
-    "id": 1071,
     "team": 30,
     "name": "Chandler Stephenson",
     "age": 25,
@@ -17190,7 +14960,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 1075,
     "team": 30,
     "name": "Dmitry Orlov",
     "age": 28,
@@ -17208,7 +14977,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 1076,
     "team": 30,
     "name": "Evgeny Kuznetsov",
     "age": 27,
@@ -17226,7 +14994,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 1077,
     "team": 30,
     "name": "Jakub Vrana",
     "age": 23,
@@ -17244,7 +15011,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 1078,
     "team": 30,
     "name": "John Carlson",
     "age": 30,
@@ -17262,7 +15028,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 1079,
     "team": 30,
     "name": "Jonas Siegenthaler",
     "age": 22,
@@ -17280,7 +15045,6 @@
     "height": "6\"3'"
   },
   {
-    "id": 1080,
     "team": 30,
     "name": "Lars Eller",
     "age": 30,
@@ -17298,25 +15062,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 1081,
-    "team": 30,
-    "name": "Madison Bowey",
-    "age": 24,
-    "number": 22,
-    "off": 62,
-    "def": 66,
-    "faceOff": 53,
-    "pass": 62,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3042045.png&w=200&h=145",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 1,
-    "salary": 1000000,
-    "height": "6\"2'"
-  },
-  {
-    "id": 1082,
     "team": 30,
     "name": "Matt Niskanen",
     "age": 33,
@@ -17334,7 +15079,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 1083,
     "team": 30,
     "name": "Michal Kempny",
     "age": 29,
@@ -17352,7 +15096,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 1084,
     "team": 24,
     "name": "Nathan Walker",
     "age": 25,
@@ -17370,7 +15113,6 @@
     "height": "5\"9'"
   },
   {
-    "id": 1085,
     "team": 30,
     "name": "Nic Dowd",
     "age": 29,
@@ -17388,25 +15130,6 @@
     "height": "6\"2'"
   },
   {
-    "id": 1086,
-    "team": 30,
-    "name": "Nick Jensen",
-    "age": 29,
-    "number": 3,
-    "off": 70,
-    "def": 79,
-    "faceOff": 53,
-    "pass": 68,
-    "faceSrc": "http://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3025608.png&w=200&h=145",
-    "position": 3,
-    "positioning": 40,
-    "reflexes": 40,
-    "years": 4,
-    "salary": 2500000,
-    "height": "6\"1'"
-  },
-  {
-    "id": 1087,
     "team": 30,
     "name": "Nicklas Backstrom",
     "age": 32,
@@ -17424,7 +15147,6 @@
     "height": "6\"1'"
   },
   {
-    "id": 1088,
     "team": 30,
     "name": "Pheonix Copley",
     "age": 28,
@@ -17442,7 +15164,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 1089,
     "team": 30,
     "name": "T.J. Oshie",
     "age": 33,
@@ -17460,7 +15181,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 1090,
     "team": 30,
     "name": "Tom Wilson",
     "age": 25,
@@ -17478,7 +15198,6 @@
     "height": "6\"4'"
   },
   {
-    "id": 1091,
     "team": 30,
     "name": "Travis Boyd",
     "age": 26,
@@ -17496,7 +15215,6 @@
     "height": "5\"11'"
   },
   {
-    "id": 1092,
     "team": 30,
     "name": "Tyler Lewington",
     "age": 25,
